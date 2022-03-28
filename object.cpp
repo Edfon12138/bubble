@@ -176,7 +176,12 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 			//radius = pow(0.119366 * size1, 1 / 3.0) + 0.38;
 			//std::cout << id << "号object用默认参数生成，它的类型是" << type << std::endl;
 			//能量
-			mig_E = 10;
+			if (size1 > 35)
+			{
+				mig_E = 0.013;
+				mig_F = 1419300000000 * pow(size1, -0.365) * pow(10, -size2);
+			}
+			//mig_E = 10;
 			emit_E1 = 10;
 			emit_E2 = 3;
 
