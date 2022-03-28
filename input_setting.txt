@@ -1,0 +1,93 @@
+# lines starting with "#" is omitted
+# blank lines are acceptable
+# line format: variable_name variable_value
+
+##########################经常要改的参数#################################
+# they are the upper bonds and lower bonds for the simulation box, unit = lattice parameter
+#a0=3.173×e-10m
+x_min 0
+y_min 0
+z_min 0
+x_max 124
+y_max 128
+z_max 132
+
+# 1 means absorb; 2means periodic; 3 XY周期，Z开放
+boundary_condition 2
+
+#sink strength，周期性边界条件下才可开启该功能
+#晶界吸收，晶界半径单位为埃，-1表示不开启
+ss_grain_radius 20000
+
+temperature 773
+
+#1~time	2~loop
+stop_criteria 1
+max_time 1e-3
+max_step 1
+
+# how many data points would you like to output
+total_output 500
+#是否在output_react.txt中输出结合、湮灭和发射反应，1输出，-1不输出
+#模拟机时超过1小时，建议-1
+#output_c_a_e_react -1
+output_cascade_injection 1
+output_combine_reaction -1
+output_annihilation_reaction 1
+output_emit_reaction -1
+output_out_bound 1
+output_GB_absorption 1
+output_disloaction_absorption 1
+output_trap_mutation 1
+
+
+#高于该能量的事件不会发生（设太低可能报错）
+max_energy 4.09
+
+#time interval between two cascades, (unit second)
+# -1 means no cascade insertion
+cascade_interval 6.257e-6
+#randomly translate the inserted cascade (0~false, 1~true)
+rand_translate_cascade 1
+#randomly rotate the inserted cascade (0~false, 1~true)
+rand_rotate_cascade 1
+
+He_flux -1
+
+##########################一般不用改的参数##############################
+# 0 means bcc; 1 means TIS; 2 means OIS（暂未实现）;
+fia_site 1
+#如果event_list为空，则每一步时间累加default_dt，步数累加1
+default_dt 1
+#-1表示，程序自动产生随机数
+seed -1
+
+#网格的划分密度，单位为a0，每隔10a0划分一块网格
+box_grid 20
+
+
+
+##########################绝对不要改的参数##############################
+# kb = boltzman constant (eV/K)
+kb 8.6173303E-05
+# a0 = lattice parameter, now is W(tungsten) 3.16524!e - 9
+a0 3.175
+# hp = planck constant (eV*s)
+hp 4.135667662E-15
+
+
+
+##########################未经测试的功能，不要改##########################
+mig_degeneration 1
+
+#晶粒半径，如果Obj位移超过晶粒半径，则将其去除（单位是晶格常数），-1表示不开启
+#周期性边界条件下才可开启该功能
+grain_radius -1
+
+
+
+##########################暂未实现的功能################################
+#sink strength，周期性边界条件下才可开启该功能，-1表示不开启
+meet_carbon 1e-8
+meet_Re 1e-7
+

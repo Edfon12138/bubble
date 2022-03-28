@@ -1,0 +1,4 @@
+#steps	413770081	time	156.3	seed	1612283015
+#type 1~vac, 2~sia, 3~fia, 4~vac_fia, 5~sia_fia
+#no direction~0;	111~1;	-111~2;	1 - 11~3;	11 - 1~4
+#id	type	x	y	z	size1	size2	dir
