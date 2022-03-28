@@ -58,7 +58,7 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 			emit_F1 = 6e12 * pow(size1, 0.666667);
 			*/
 			//这一套方案，增大了空位的半径，V1-V1在4NN可以结合，并且大团簇也有可能解离
-			radius = pow((3 * size1 / 8.0 / PI), 1 / 3.0) + 0.34;
+			radius = 1.3739 + pow(size1 * 0.11936, 1 / 3.0) - pow(0.11936, 1 / 3.0);
 			if (size1 % 16 == 1) {
 				emit_E1 = 1.18 + 1.66;
 			}
@@ -77,8 +77,8 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 		else {
 			mig_F = 1419300000000 * pow(size1, -0.365);
 			mig_E = 0.04;
-			//这一套方案，增大了位错环的半径，sia1-sia1在5NN可以结合，sia1-vac1在5NN结合
-			radius = pow(size1 / pow(3, 0.5) / PI, 0.5) + 0.4813;
+			
+			radius = 1.15 * (1.3739 + pow(size1 * 0.11936, 1 / 3.0) - pow(0.11936, 1 / 3.0));
 			/*
 			// Rn =1/2+0.2+(B4/3^0.5/PI)^0.5-(1/3^0.5/PI)^0.5
 			radius = pow(size1 / pow(3, 0.5) / PI, 0.5) + 0.2713;
@@ -94,7 +94,7 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 		//如果超出了数据库的范围，我们提供默认值
 		else {
 			//和纯空位的半径相同
-			radius = pow((3 * size2 / 8.0 / PI), 1 / 3.0) + 0.34;
+			radius = 3 / 3.17 + pow(size1 * 0.11936, 1 / 3.0) - pow(0.11936, 1 / 3.0);
 			//std::cout << id << "号object用默认参数生成，它的类型是" << type << std::endl;
 			emit_F2 = 6e10; 
 			emit_E2 = 1.99;
@@ -109,7 +109,7 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 		//如果超出了数据库的范围，我们提供默认值
 		else {
 			//和纯空位的半径相同
-			radius = pow((3 * size1 / 8.0 / PI), 1 / 3.0) + 0.34;
+			radius =1.3739 + pow(size1 * 0.11936, 1 / 3.0) - pow(0.11936, 1 / 3.0);
 			//std::cout << id << "号object用默认参数生成，它的类型是" << type << std::endl;
 			/*
 			if (double(size2) / size1 <= 3.0) {
@@ -171,7 +171,7 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 		//如果超出了数据库的范围，我们提供默认值
 		else {
 			//R正比于N^1/2
-			radius = pow(size1 / pow(3, 0.5) / PI, 0.5) + 0.4413;
+			radius = 1.15 * (1.3739 + pow(size1 * 0.11936, 1 / 3.0) - pow(0.11936, 1 / 3.0));
 			//R正比于N^1/3
 			//radius = pow(0.119366 * size1, 1 / 3.0) + 0.38;
 			//std::cout << id << "号object用默认参数生成，它的类型是" << type << std::endl;
