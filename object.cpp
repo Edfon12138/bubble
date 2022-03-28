@@ -181,7 +181,7 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 			emit_E2 = 3;
 
 			//trap mutation 如果He/SIA大于3而且He的数量大于5个就可以发生trap mutation，这个值是可以变的
-			if (size2 / size1 >= 1 && size2 > 3)
+			if (size2 / size1 >= 1 || size2 > 3)
 			{
 				TM_E = -4;
 			}

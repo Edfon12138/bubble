@@ -1,5 +1,9 @@
 # bubble lattice
 
+编译代码
+
+`g++ *.cpp -o runfile_feng -std=c++11`
+
 ---
 
 ## 2022年3月28日
