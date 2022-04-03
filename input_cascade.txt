@@ -2,3 +2,4 @@
 #type 1~vac, 2~sia, 3~fia, 4~vac_fia, 5~sia_fia
 #no direction~0;	111~1;	-111~2;	1 - 11~3;	11 - 1~4
 #id	type	x	y	z	size1	size2	dir
+1	5	54.4687	58.16874654	78.168746	60	500	1

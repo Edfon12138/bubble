@@ -98,7 +98,7 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 			//std::cout << id << "号object用默认参数生成，它的类型是" << type << std::endl;
 			emit_F2 = 6e10; 
 			emit_E2 = 1.99;
-			TM_E = -4;
+			TM_E = -4.0;
 		}
 		break;
 	case 4:
@@ -159,20 +159,21 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 			}
 			//发生trap mutation事件
 			if (size2 > 5 * pow(size1, 0.86))
-				TM_E = -4;
+				TM_E = -4.0;
 		}
 		break;
 
 	case 5:
 		//如果不超过数据库的范围，从数据库读取迁移、发射、旋转、半径参数
-		if ((size_t)size1 <= _sia_fia_database.row && (size_t)size2 <= _sia_fia_database.column) {
+		if ((size_t)size1 <= _sia_fia_database.row && (size_t)size2 <= _sia_fia_database.column)
+		{
 			parameterization(_sia_fia_database.find(size1, size2));
 		}
 		//如果超出了数据库的范围，我们提供默认值
 		else {
 			//R正比于N^1/2
-			radius = 1.15 * (1.3739 + pow(size1 * 0.11936, 1 / 3.0) - pow(0.11936, 1 / 3.0));
 			//R正比于N^1/3
+			radius = 1.15 * (1.3739 + pow(size1 * 0.11936, 1 / 3.0) - pow(0.11936, 1 / 3.0));
 			//radius = pow(0.119366 * size1, 1 / 3.0) + 0.38;
 			//std::cout << id << "号object用默认参数生成，它的类型是" << type << std::endl;
 			//能量
@@ -188,7 +189,7 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 			//trap mutation 如果He/SIA大于3而且He的数量大于5个就可以发生trap mutation，这个值是可以变的
 			if (size2 / size1 >= 1 || size2 > 3)
 			{
-				TM_E = -4;
+				TM_E = -4.0;
 			}
 		}
 		break;

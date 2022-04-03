@@ -118,6 +118,17 @@ int main()
 				//如果抽中迁移或者发射，则检查是否撞上别的obj
 				int obj_pos = event_list.at(event_pos).pos;	//该obj在obj_ptr_list中的位置
 				int which_event = event_list.at(event_pos).which_event;
+				/*for (int i = 0; i < obj_ptr_list.size(); i++)
+				{
+					if (obj_ptr_list.at(i)->type==5 )
+					{
+						system("pause");
+					}
+				}*/
+				/*if (which_event==4 )
+				{
+					system("pause");
+				}*/
 				carry_out_event(which_event, obj_pos, obj_ptr_list, flag_refresh_event_list,
 					*ptr_vac_database, *ptr_sia_database, *ptr_fia_database, *ptr_vac_fia_database, *ptr_sia_fia_database, settings);
 
