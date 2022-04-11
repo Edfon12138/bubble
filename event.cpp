@@ -501,16 +501,45 @@ void carry_out_TM(std::vector<Object*>& _obj_ptr_list, Object& _obj, int _obj_po
 	//创建两个新的obj
 	//确定两个待创建的obj的构造参数
 	//SIA
+	int ol_size1(_obj.size1), ol_size2(_obj.size2), tm_sia(0);
 	int o1_type, o1_size1, o1_size2, o1_dir;
 	o1_type = 2;
 	//o1_size1 = 1;//o1_size1 = _obj.size2/4 - _obj.size1;
-	o1_size1 = _obj.type == 5 ? _obj.size1 + 1 : 1;
+	if (_obj.type == 5)
+	{
+		o1_size1 = _obj.size1 + 1;
+	}
+	else if (_obj.type == 4)
+	{
+		while (ol_size2 > 5 * pow(ol_size1, 0.86))
+		{
+			ol_size1++;
+			tm_sia++;
+		}
+		o1_size1 = tm_sia;
+	}
+	else
+		o1_size1 = 1;
 	o1_size2 = 0; o1_dir = (int)floor(uni() * 4) + 1;
 	//He-V
 	double x1, y1, z1;
 	int o2_type, o2_size1, o2_size2, o2_dir;
 	o2_type = 4;
-	o2_size1 = _obj.type == 5 ? 1 : _obj.size1 + 1;//o2_size1 = _obj.size1 + 1;
+	if (_obj.type == 5)
+	{
+		o2_size1 = 1;
+	}
+	else if (_obj.type == 4)
+	{
+		while (ol_size2 > 5 * pow(ol_size1, 0.86))
+		{
+			ol_size1++;
+			tm_sia++;
+		}
+		o2_size1 = tm_sia + _obj.size1;
+	}
+	else
+		o2_size1 = _obj.size1 + 1;
 	o2_size2 = _obj.size2, o2_dir = 0;
 	double x2 = _obj.pos.at(0), y2 = _obj.pos.at(1), z2 = _obj.pos.at(2);
 	//产生一个0-2pi之间的随机弧度值，确定被发射元素的坐标
