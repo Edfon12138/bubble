@@ -23,7 +23,7 @@ temperature 773
 
 #1~time	2~loop
 stop_criteria 1
-max_time 1e-3
+max_time 2e-2
 max_step 1
 
 # how many data points would you like to output
