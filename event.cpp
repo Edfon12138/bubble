@@ -501,7 +501,7 @@ void carry_out_TM(std::vector<Object*>& _obj_ptr_list, Object& _obj, int _obj_po
 	//创建两个新的obj
 	//确定两个待创建的obj的构造参数
 	//SIA
-	int ol_size1(_obj.size1), ol_size2(_obj.size2), tm_sia(0);
+	int oL_size1(_obj.size1), oL_size2(_obj.size2), tm_sia(0);
 	int o1_type, o1_size1, o1_size2, o1_dir;
 	o1_type = 2;
 	//o1_size1 = 1;//o1_size1 = _obj.size2/4 - _obj.size1;
@@ -511,9 +511,9 @@ void carry_out_TM(std::vector<Object*>& _obj_ptr_list, Object& _obj, int _obj_po
 	}
 	else if (_obj.type == 4)
 	{
-		while (ol_size2 > 5 * pow(ol_size1, 0.86))
+		while (oL_size2 > 5 * pow(oL_size1, 0.86))
 		{
-			ol_size1++;
+			oL_size1++;
 			tm_sia++;
 		}
 		o1_size1 = tm_sia;
@@ -531,9 +531,9 @@ void carry_out_TM(std::vector<Object*>& _obj_ptr_list, Object& _obj, int _obj_po
 	}
 	else if (_obj.type == 4)
 	{
-		while (ol_size2 > 5 * pow(ol_size1, 0.86))
+		while (oL_size2 > 5 * pow(oL_size1, 0.86))
 		{
-			ol_size1++;
+			oL_size1++;
 			tm_sia++;
 		}
 		o2_size1 = tm_sia + _obj.size1;
