@@ -517,6 +517,7 @@ void carry_out_TM(std::vector<Object*>& _obj_ptr_list, Object& _obj, int _obj_po
 			tm_sia++;
 		}
 		o1_size1 = tm_sia;
+
 	}
 	else
 		o1_size1 = 1;
