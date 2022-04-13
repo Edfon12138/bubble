@@ -553,8 +553,6 @@ void carry_out_TM(std::vector<Object*>& _obj_ptr_list, Object& _obj, int _obj_po
 	y1 = y2 + r * sin(angle1) * sin(angle2);
 	z1 = z2 + r * cos(angle1);
 
-
-
 	//创建两个新的Obj，obj1是被吐出来的
 	Object* ptr_obj1 = new Object(o1_type, x1, y1, z1, o1_size1, o1_size2, o1_dir, _vac_database, _sia_database,
 		_fia_database, _vac_fia_database, _sia_fia_database, _set);
