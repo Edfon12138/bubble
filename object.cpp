@@ -76,7 +76,7 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 		//如果超出了数据库的范围，我们提供默认值
 		else {
 			mig_F = 1419300000000 * pow(size1, -0.365);
-			mig_E = 0.04;
+			mig_E = 10;
 			
 			radius = 1.15 * (1.3739 + pow(size1 * 0.11936, 1 / 3.0) - pow(0.11936, 1 / 3.0));
 			/*
@@ -178,7 +178,7 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 			//能量
 			if (size1 > 35)
 			{
-				mig_E = 0.013;
+				mig_E = 10;
 				mig_F = 1419300000000 * pow(size1, -0.365) * pow(10, -size2);
 			}
 			//mig_E = 10;
