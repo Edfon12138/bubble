@@ -98,7 +98,7 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 			//std::cout << id << "号object用默认参数生成，它的类型是" << type << std::endl;
 			emit_F2 = 6e10; 
 			emit_E2 = 1.99;
-			TM_E = -4.0;
+			TM_E = 10.0;
 		}
 		break;
 	case 4:
@@ -158,9 +158,7 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 				}
 			}
 			//发生trap mutation事件
-			if (size2 > 5 * pow(size1, 0.86))
-				TM_E = -4.0;
-		}
+			TM_E = 10.0;
 		break;
 
 	case 5:
@@ -189,7 +187,7 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 			//trap mutation 如果He/SIA大于3而且He的数量大于5个就可以发生trap mutation，这个值是可以变的
 			if (size2 / size1 >= 1 || size2 > 3)
 			{
-				TM_E = -4.0;
+				TM_E = 10.0;
 			}
 		}
 		break;
