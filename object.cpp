@@ -143,14 +143,12 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 					emit_E1 = 4.29;
 					emit_E2 = 0.0703 * pow(x, 2) - 0.9317 * x + 6.1644;
 				}
-				else if (x > 8) 
-				{
+				else if (x > 8) {
 					emit_E1 = 10;
 					emit_E2 = 2;
 				}
 				else {
-					if (size1 % 16 == 1) 
-					{
+					if (size1 % 16 == 1) {
 						emit_E1 = 1.18 + 1.66;
 					}
 					else {
