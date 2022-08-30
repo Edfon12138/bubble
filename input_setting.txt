@@ -8,22 +8,22 @@
 x_min 0
 y_min 0
 z_min 0
-x_max 124
-y_max 128
-z_max 132
+x_max 31
+y_max 32
+z_max 33
 
 # 1 means absorb; 2means periodic; 3 XY周期，Z开放
 boundary_condition 2
 
 #sink strength，周期性边界条件下才可开启该功能
 #晶界吸收，晶界半径单位为埃，-1表示不开启
-ss_grain_radius 20000
+ss_grain_radius 1000
 
 temperature 773
 
 #1~time	2~loop
 stop_criteria 1
-max_time 2e-2
+max_time 3000
 max_step 1
 
 # how many data points would you like to output
@@ -46,7 +46,7 @@ max_energy 4.09
 
 #time interval between two cascades, (unit second)
 # -1 means no cascade insertion
-cascade_interval 6.257e-6
+cascade_interval 0.381843
 #randomly translate the inserted cascade (0~false, 1~true)
 rand_translate_cascade 1
 #randomly rotate the inserted cascade (0~false, 1~true)

@@ -75,6 +75,7 @@ int main()
 	bool flag_refresh_event_list = true;
 	double rate_sum;
 	std::vector<Event> event_list;
+
 	while (settings.check_end())
 	{
 		//如果obj_ptr_list发生变化，重新构建事件列表，并且更新rate_sum
@@ -141,7 +142,10 @@ int main()
 			settings.step += 1;
 		}
 
-		//output_dump(obj_ptr_list, settings, false);
+
+		//if (cnt % 100 == 0) {
+		//	output_dump(obj_ptr_list, settings, false);
+		//}
 
 		//检查是否需要输出
 		if (settings.check_output())

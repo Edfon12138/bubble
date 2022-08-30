@@ -150,7 +150,7 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 				else {
 					if (size1 % 16 == 1) {
 						emit_E1 = 1.18 + 1.66;
-					}
+						}
 					else {
 						emit_E1 = 2.63 + 1.66;
 					}
@@ -159,7 +159,9 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 			}
 			//发生trap mutation事件
 			if (size2 > 5 * pow(size1, 0.86))
+			{
 				TM_E = -4.0;
+			}
 		}
 		break;
 
@@ -180,7 +182,7 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 			if (size1 > 35)
 			{
 				mig_E = 0.013;
-				mig_F = 1419300000000 * pow(size1, -0.365) * pow(10, -size2);
+				mig_F = 1419300000000 * pow(size1, -0.365);
 			}
 			//mig_E = 10;
 			emit_E1 = 10;
