@@ -38,7 +38,7 @@ output_emit_reaction -1
 output_out_bound 1
 output_GB_absorption 1
 output_disloaction_absorption 1
-output_trap_mutation 1
+output_trap_mutation -1
 
 
 #高于该能量的事件不会发生（设太低可能报错）
@@ -46,7 +46,7 @@ max_energy 4.09
 
 #time interval between two cascades, (unit second)
 # -1 means no cascade insertion
-cascade_interval 0.381843
+cascade_interval 0.076368524
 #randomly translate the inserted cascade (0~false, 1~true)
 rand_translate_cascade 1
 #randomly rotate the inserted cascade (0~false, 1~true)

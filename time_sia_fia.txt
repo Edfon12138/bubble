@@ -1,1546 +1,512 @@
-step	0	time	0	temperature	773	cpu_time	0.613
-step	2465559	time	6.0016	temperature	773	cpu_time	5.949
-5	2
-5	2
-step	3142570	time	12.0003	temperature	773	cpu_time	9.965
-8	2
-4	3
-step	3532965	time	18.0004	temperature	773	cpu_time	12.5
-5	3
-8	3
-step	3795575	time	24.0005	temperature	773	cpu_time	14.157
-10	3
-7	3
-step	4217158	time	30.0003	temperature	773	cpu_time	17.16
-3	1
-12	2
-step	4458930	time	36.0014	temperature	773	cpu_time	19.231
-4	1
-5	1
-10	3
-step	4914583	time	42.0009	temperature	773	cpu_time	23.743
+step	0	time	0	temperature	773	cpu_time	0.43
+step	1897943	time	6.00163	temperature	773	cpu_time	5.13
+step	2544859	time	12.0032	temperature	773	cpu_time	11.06
+step	3098709	time	18.0001	temperature	773	cpu_time	18.91
+step	3558206	time	24.0019	temperature	773	cpu_time	26.76
 2	3
-4	1
-10	1
-step	5142239	time	48.0005	temperature	773	cpu_time	26.028
-4	2
-13	1
-3	2
-2	3
-step	5458487	time	54.0002	temperature	773	cpu_time	29.544
-5	2
-5	3
-14	1
-5	3
-7	3
-3	1
-step	5697432	time	60.0021	temperature	773	cpu_time	32.094
-5	2
-5	2
-6	1
-24	3
-step	5995720	time	66.0008	temperature	773	cpu_time	35.039
-4	1
-10	1
-7	3
-step	6105296	time	72	temperature	773	cpu_time	36.045
-4	1
-7	3
-10	2
-step	6471371	time	78.0001	temperature	773	cpu_time	39.347
-4	2
-step	6745255	time	84.0007	temperature	773	cpu_time	41.868
-3	3
-4	3
-4	2
-step	7048838	time	90.0019	temperature	773	cpu_time	44.709
-3	3
-8	3
-step	7308154	time	96.0003	temperature	773	cpu_time	47.098
-4	3
-10	3
-3	1
-step	7749103	time	102.002	temperature	773	cpu_time	51.496
-3	2
-7	2
-step	8093512	time	108.001	temperature	773	cpu_time	54.756
-10	2
-4	3
-step	8274287	time	114.001	temperature	773	cpu_time	56.366
-5	3
-4	1
-11	2
-step	8615685	time	120	temperature	773	cpu_time	59.465
-3	3
-4	2
-14	3
-step	8975240	time	126.001	temperature	773	cpu_time	62.638
-7	1
-9	3
-3	2
-step	9164413	time	132.001	temperature	773	cpu_time	64.156
-3	2
-2	3
-15	1
-step	9346596	time	138	temperature	773	cpu_time	65.725
-7	3
-24	2
-step	9808448	time	144	temperature	773	cpu_time	70.016
-8	3
-4	1
-33	3
-step	9964445	time	150.002	temperature	773	cpu_time	71.426
-4	3
-17	1
-10	2
-22	3
-step	10151355	time	156.001	temperature	773	cpu_time	73.057
-6	3
-40	1
-16	1
-step	10421808	time	162	temperature	773	cpu_time	75.313
+step	3901296	time	30	temperature	773	cpu_time	32.07
+step	4272468	time	36.0002	temperature	773	cpu_time	38.2
+step	4719211	time	42.0011	temperature	773	cpu_time	45.84
+step	4969265	time	48.0002	temperature	773	cpu_time	51.15
+step	5276391	time	54.0009	temperature	773	cpu_time	57.97
+step	5535851	time	60.0008	temperature	773	cpu_time	63.04
+step	5846869	time	66.0001	temperature	773	cpu_time	69.06
+step	6083007	time	72.0001	temperature	773	cpu_time	73.96
+2	2
+step	6392706	time	78.0018	temperature	773	cpu_time	80.51
 6	2
-27	3
-step	10663428	time	168	temperature	773	cpu_time	77.191
-5	1
-16	2
-step	10878859	time	174.001	temperature	773	cpu_time	78.853
+step	6556333	time	84.003	temperature	773	cpu_time	83.96
+7	2
+step	6762940	time	90.0022	temperature	773	cpu_time	87.92
 5	2
-26	3
-step	11280059	time	180	temperature	773	cpu_time	81.94
-28	2
-step	11470174	time	186.001	temperature	773	cpu_time	83.277
-step	11743846	time	192	temperature	773	cpu_time	85.053
-step	12110453	time	198.002	temperature	773	cpu_time	87.407
-5	1
-5	1
-step	12587311	time	204.002	temperature	773	cpu_time	90.435
-11	1
-4	1
-step	12826797	time	210	temperature	773	cpu_time	92.11
-4	2
+step	7017020	time	96.0006	temperature	773	cpu_time	92.85
+10	2
+step	7377939	time	102.003	temperature	773	cpu_time	100.3
+step	7828264	time	108.001	temperature	773	cpu_time	108.92
+step	7989777	time	114.001	temperature	773	cpu_time	112.28
+step	8198182	time	120.001	temperature	773	cpu_time	116.7
+step	8383606	time	126	temperature	773	cpu_time	120.6
+step	8554505	time	132.002	temperature	773	cpu_time	124.2
+step	8900281	time	138.004	temperature	773	cpu_time	131.22
+step	9138111	time	144.005	temperature	773	cpu_time	135.55
+step	9395633	time	150.005	temperature	773	cpu_time	139.72
+step	9597644	time	156.003	temperature	773	cpu_time	143.3
+step	10846109	time	162.002	temperature	773	cpu_time	164.5
+step	11037717	time	168.002	temperature	773	cpu_time	168.17
+step	11278914	time	174.002	temperature	773	cpu_time	172.37
+step	11471072	time	180.002	temperature	773	cpu_time	175.57
+step	11635825	time	186.002	temperature	773	cpu_time	178.21
+step	11910398	time	192.001	temperature	773	cpu_time	182.57
+step	12246672	time	198.006	temperature	773	cpu_time	187.59
+step	12542116	time	204.001	temperature	773	cpu_time	191.7
+step	12765034	time	210.002	temperature	773	cpu_time	195.36
+step	13056681	time	216.004	temperature	773	cpu_time	199.96
+step	13545753	time	222	temperature	773	cpu_time	206.76
+step	14044401	time	228.001	temperature	773	cpu_time	213.5
+step	14360327	time	234.001	temperature	773	cpu_time	218.02
+step	14588311	time	240.002	temperature	773	cpu_time	221.08
+step	14890914	time	246.002	temperature	773	cpu_time	225.15
+step	15274826	time	252.001	temperature	773	cpu_time	230.21
+step	15543841	time	258.001	temperature	773	cpu_time	233.68
+step	15914566	time	264.005	temperature	773	cpu_time	238.2
+step	16497645	time	270.001	temperature	773	cpu_time	245.43
+step	16938566	time	276.002	temperature	773	cpu_time	250.93
+step	17243612	time	282.001	temperature	773	cpu_time	254.88
+step	17482873	time	288.002	temperature	773	cpu_time	257.93
+step	18000813	time	294.003	temperature	773	cpu_time	263.94
+step	18365562	time	300.006	temperature	773	cpu_time	268.21
+step	18743496	time	306.001	temperature	773	cpu_time	273.06
+step	19233856	time	312.001	temperature	773	cpu_time	279.02
+step	19553590	time	318.002	temperature	773	cpu_time	283
+step	19797813	time	324.005	temperature	773	cpu_time	286
+step	20105388	time	330.005	temperature	773	cpu_time	289.57
+step	20484671	time	336.001	temperature	773	cpu_time	294.11
+step	20819338	time	342.005	temperature	773	cpu_time	297.99
+step	21203478	time	348.001	temperature	773	cpu_time	302.24
+step	21533597	time	354.011	temperature	773	cpu_time	306.09
+step	21770998	time	360	temperature	773	cpu_time	308.5
+step	22207323	time	366.007	temperature	773	cpu_time	313.29
+step	22554461	time	372.01	temperature	773	cpu_time	316.97
+step	22868338	time	378.001	temperature	773	cpu_time	320.47
+step	23141444	time	384.005	temperature	773	cpu_time	323.76
+step	23504759	time	390.002	temperature	773	cpu_time	327.95
+step	23928588	time	396.002	temperature	773	cpu_time	332.82
+step	24309528	time	402.003	temperature	773	cpu_time	336.82
+step	24742162	time	408.002	temperature	773	cpu_time	341.32
+step	25121741	time	414	temperature	773	cpu_time	345.73
+step	25339066	time	420	temperature	773	cpu_time	348.21
+step	25803013	time	426.007	temperature	773	cpu_time	353.21
+step	26247918	time	432.003	temperature	773	cpu_time	357.73
+step	26573999	time	438.001	temperature	773	cpu_time	361.32
+step	26923916	time	444.007	temperature	773	cpu_time	364.88
+step	27242730	time	450	temperature	773	cpu_time	368.35
+step	27681343	time	456.001	temperature	773	cpu_time	373.13
+step	28090150	time	462.003	temperature	773	cpu_time	377.48
+step	28354987	time	468.001	temperature	773	cpu_time	380.48
+step	28730709	time	474.004	temperature	773	cpu_time	384.22
+step	29048615	time	480.001	temperature	773	cpu_time	387.41
+step	29318428	time	486.001	temperature	773	cpu_time	390.39
+step	29679236	time	492.003	temperature	773	cpu_time	394.26
+step	29947212	time	498.001	temperature	773	cpu_time	397.12
+step	30338705	time	504.002	temperature	773	cpu_time	401.48
+step	30710458	time	510.002	temperature	773	cpu_time	405.08
+step	31040864	time	516.001	temperature	773	cpu_time	408.54
+step	31639070	time	522.004	temperature	773	cpu_time	414.5
+step	32056971	time	528.001	temperature	773	cpu_time	418.75
+step	32389699	time	534.003	temperature	773	cpu_time	422.21
+step	32780005	time	540.002	temperature	773	cpu_time	426.42
+step	32985663	time	546.004	temperature	773	cpu_time	428.5
+step	33323195	time	552.004	temperature	773	cpu_time	431.93
+step	33600216	time	558.003	temperature	773	cpu_time	435.02
+step	34046023	time	564.003	temperature	773	cpu_time	439.81
+step	34344334	time	570.007	temperature	773	cpu_time	442.99
+step	34687485	time	576	temperature	773	cpu_time	446.38
+step	35034284	time	582.001	temperature	773	cpu_time	449.79
+step	35454533	time	588.005	temperature	773	cpu_time	454.24
+step	35822136	time	594.002	temperature	773	cpu_time	458.05
+step	36113783	time	600.001	temperature	773	cpu_time	461.03
+step	36452302	time	606.003	temperature	773	cpu_time	464.67
+step	36872139	time	612.004	temperature	773	cpu_time	468.58
+step	37230462	time	618.002	temperature	773	cpu_time	472.04
+step	37570215	time	624	temperature	773	cpu_time	475.52
+step	37953204	time	630	temperature	773	cpu_time	479.16
+step	38303707	time	636.002	temperature	773	cpu_time	482.69
+step	38627794	time	642.006	temperature	773	cpu_time	486.13
+step	39212548	time	648.005	temperature	773	cpu_time	491.61
+step	39642082	time	654.001	temperature	773	cpu_time	495.9
+step	40162144	time	660.004	temperature	773	cpu_time	501.23
+step	40718474	time	666.003	temperature	773	cpu_time	507
+step	41059368	time	672	temperature	773	cpu_time	510.78
+step	41409884	time	678.002	temperature	773	cpu_time	514.9
+step	41855226	time	684.001	temperature	773	cpu_time	519.82
+step	42092313	time	690.008	temperature	773	cpu_time	522.35
+step	42544024	time	696.001	temperature	773	cpu_time	527.06
+step	42821808	time	702.002	temperature	773	cpu_time	529.89
+step	43294080	time	708.001	temperature	773	cpu_time	534.52
+step	43617151	time	714.004	temperature	773	cpu_time	537.83
+step	44058818	time	720.005	temperature	773	cpu_time	542.17
+step	44407200	time	726.001	temperature	773	cpu_time	545.53
+step	44733607	time	732	temperature	773	cpu_time	548.78
+step	45180700	time	738.005	temperature	773	cpu_time	553.29
+step	45505621	time	744.005	temperature	773	cpu_time	556.77
+step	45862686	time	750	temperature	773	cpu_time	560.22
+step	46192392	time	756.003	temperature	773	cpu_time	563.48
+step	46613987	time	762.002	temperature	773	cpu_time	567.44
+step	46930872	time	768.017	temperature	773	cpu_time	570.62
+step	47546292	time	774.002	temperature	773	cpu_time	575.97
+step	48118678	time	780.008	temperature	773	cpu_time	581.33
+step	48339032	time	786.009	temperature	773	cpu_time	583.42
+step	48676169	time	792.002	temperature	773	cpu_time	586.55
+step	49009218	time	798.008	temperature	773	cpu_time	589.68
+step	49493341	time	804.004	temperature	773	cpu_time	594.38
+step	50034042	time	810.011	temperature	773	cpu_time	599.4
+step	50566984	time	816.004	temperature	773	cpu_time	604.52
+step	50928742	time	822.003	temperature	773	cpu_time	608.05
+step	51540007	time	828.001	temperature	773	cpu_time	613.71
+step	51906344	time	834.005	temperature	773	cpu_time	617.1
+step	52283079	time	840.001	temperature	773	cpu_time	620.86
+step	52859738	time	846	temperature	773	cpu_time	626.47
+step	53267563	time	852.007	temperature	773	cpu_time	630.55
+step	53726554	time	858.002	temperature	773	cpu_time	635.18
+step	54258111	time	864.009	temperature	773	cpu_time	640.32
+step	54843713	time	870.002	temperature	773	cpu_time	645.83
+step	55251888	time	876.007	temperature	773	cpu_time	649.43
+step	55613649	time	882.001	temperature	773	cpu_time	652.87
+step	56098237	time	888.005	temperature	773	cpu_time	657.23
+step	56564319	time	894.002	temperature	773	cpu_time	661.45
+step	56841273	time	900.003	temperature	773	cpu_time	664.08
+step	57297156	time	906.003	temperature	773	cpu_time	667.81
+step	57721780	time	912.013	temperature	773	cpu_time	671.37
+step	58170694	time	918	temperature	773	cpu_time	675.2
+step	58552975	time	924.267	temperature	773	cpu_time	678.48
+step	59150479	time	930.005	temperature	773	cpu_time	683.4
+step	59306077	time	936.003	temperature	773	cpu_time	684.78
+step	59786622	time	942	temperature	773	cpu_time	688.66
+step	60170141	time	948.002	temperature	773	cpu_time	692.07
+step	60674544	time	954.015	temperature	773	cpu_time	696.06
+step	60901197	time	960.001	temperature	773	cpu_time	698.02
+step	61502521	time	966.003	temperature	773	cpu_time	703.07
+step	61853169	time	972.009	temperature	773	cpu_time	706.04
+step	62146097	time	978.004	temperature	773	cpu_time	708.51
+step	62502265	time	984.002	temperature	773	cpu_time	711.74
+step	62866031	time	990.006	temperature	773	cpu_time	714.87
+step	63269826	time	996	temperature	773	cpu_time	718.37
+step	63509817	time	1002.01	temperature	773	cpu_time	720.62
+step	63995169	time	1008	temperature	773	cpu_time	724.95
+step	64298747	time	1014	temperature	773	cpu_time	727.51
+step	64780206	time	1020	temperature	773	cpu_time	731.57
+step	65086726	time	1026	temperature	773	cpu_time	734.22
+step	65595485	time	1032	temperature	773	cpu_time	738.61
+step	65961147	time	1038.01	temperature	773	cpu_time	741.63
+step	66412458	time	1044	temperature	773	cpu_time	745.91
+step	66748818	time	1050	temperature	773	cpu_time	748.49
+step	67165250	time	1056	temperature	773	cpu_time	751.84
 27	1
-step	13088487	time	216.001	temperature	773	cpu_time	93.863
-8	2
-42	2
-step	13353268	time	222.002	temperature	773	cpu_time	95.734
-13	2
-52	3
-step	13964139	time	228	temperature	773	cpu_time	99.573
-4	2
-22	1
-step	14313775	time	234.001	temperature	773	cpu_time	101.84
-52	3
-step	14952064	time	240.001	temperature	773	cpu_time	105.353
-9	1
-44	1
-step	15284724	time	246.002	temperature	773	cpu_time	107.494
-2	3
-51	3
-20	2
-step	15562738	time	252.003	temperature	773	cpu_time	109.277
-5	1
-2	2
-5	1
-29	3
-46	3
-step	15684694	time	258.001	temperature	773	cpu_time	110.026
-5	1
-5	3
-4	3
-49	3
-37	1
-step	15970366	time	264.001	temperature	773	cpu_time	111.774
-5	3
-84	2
-14	2
-16	2
-step	16426661	time	270.001	temperature	773	cpu_time	114.464
-59	3
-99	2
-step	16657133	time	276	temperature	773	cpu_time	115.891
-111	2
-71	3
-step	16928856	time	282	temperature	773	cpu_time	117.538
-129	3
-77	3
-step	17168032	time	288	temperature	773	cpu_time	118.914
-4	1
-94	3
-step	17679577	time	294	temperature	773	cpu_time	121.868
-5	2
-7	3
-73	1
-step	17911707	time	300.001	temperature	773	cpu_time	122.996
-74	3
-8	3
-step	18338103	time	306	temperature	773	cpu_time	125.23
-66	1
-4	2
-step	18489439	time	312.001	temperature	773	cpu_time	126.119
-2	2
-75	3
-step	18804565	time	318	temperature	773	cpu_time	128.092
-4	2
-4	3
-92	1
-step	19053808	time	324.001	temperature	773	cpu_time	129.698
-5	3
-5	3
-108	2
-step	19294152	time	330	temperature	773	cpu_time	131.173
-5	2
-128	3
-17	1
-5	3
-step	19558265	time	336.001	temperature	773	cpu_time	132.705
-5	1
-145	2
-33	2
-step	19928344	time	342.002	temperature	773	cpu_time	134.917
-41	2
-14	2
-184	1
-step	21247242	time	348.001	temperature	773	cpu_time	138.398
-5	1
-step	21587085	time	354.003	temperature	773	cpu_time	139.563
-4	2
-3	1
-10	2
-step	22218503	time	360.002	temperature	773	cpu_time	142.087
-8	2
-step	22668836	time	366	temperature	773	cpu_time	143.834
-step	23203926	time	372.001	temperature	773	cpu_time	145.999
-step	24112518	time	378.001	temperature	773	cpu_time	149.82
-step	24736212	time	384.004	temperature	773	cpu_time	152.603
-5	3
-step	25257484	time	390	temperature	773	cpu_time	155.256
-step	25759681	time	396.001	temperature	773	cpu_time	157.794
-step	26062519	time	402	temperature	773	cpu_time	159.438
-4	2
-step	26667658	time	408.002	temperature	773	cpu_time	162.808
-5	3
-step	27323045	time	414.001	temperature	773	cpu_time	166.094
-4	1
-3	1
-step	27549766	time	420.001	temperature	773	cpu_time	167.315
-4	1
-4	1
-3	1
-11	1
-step	27878114	time	426.001	temperature	773	cpu_time	169.157
-4	2
-3	2
-7	1
-8	2
-18	2
-step	28279810	time	432	temperature	773	cpu_time	171.7
-3	1
-7	1
-15	3
-6	1
-step	28748640	time	438.001	temperature	773	cpu_time	174.731
-4	1
-12	3
-28	3
-12	2
-step	29032565	time	444.002	temperature	773	cpu_time	176.478
-76	2
-step	29426255	time	450.003	temperature	773	cpu_time	178.815
-12	1
-step	29950495	time	456.004	temperature	773	cpu_time	181.671
-12	1
-step	30233873	time	462.002	temperature	773	cpu_time	183.094
-3	2
-13	3
-step	30675536	time	468.005	temperature	773	cpu_time	185.283
-3	1
-step	31293593	time	474.002	temperature	773	cpu_time	188.094
-5	2
-step	31528616	time	480.001	temperature	773	cpu_time	189.22
-11	2
-step	31744027	time	486.001	temperature	773	cpu_time	190.382
-3	2
-14	2
-4	2
-step	32491901	time	492.001	temperature	773	cpu_time	194.471
-19	2
-21	2
-step	32745117	time	498.001	temperature	773	cpu_time	196.102
-22	2
-step	32986921	time	504	temperature	773	cpu_time	197.516
-3	2
-25	2
-step	33200831	time	510	temperature	773	cpu_time	198.718
-4	3
-28	2
-step	33758692	time	516.002	temperature	773	cpu_time	201.731
-31	3
-step	34203543	time	522	temperature	773	cpu_time	203.766
-2	2
-9	1
-step	34408733	time	528.003	temperature	773	cpu_time	204.728
-2	2
-12	2
-9	2
-step	34628430	time	534	temperature	773	cpu_time	205.769
-4	2
-14	2
-step	35015590	time	540	temperature	773	cpu_time	207.596
-19	2
-18	2
-step	35410619	time	546	temperature	773	cpu_time	209.69
-30	3
-31	3
-step	35882115	time	552	temperature	773	cpu_time	212.132
-54	3
-5	2
-step	36066789	time	558	temperature	773	cpu_time	212.987
-65	1
-step	36320860	time	564	temperature	773	cpu_time	214.133
-76	3
-step	36563499	time	570	temperature	773	cpu_time	215.227
-35	3
-21	3
-22	2
-step	37000179	time	576.001	temperature	773	cpu_time	217.219
-36	3
-33	2
-step	37383218	time	582.001	temperature	773	cpu_time	218.822
-39	3
-step	37617450	time	588	temperature	773	cpu_time	219.92
-5	1
-4	3
-48	3
-step	38106366	time	594.001	temperature	773	cpu_time	221.958
-4	2
-31	2
-step	38650946	time	600.001	temperature	773	cpu_time	224.441
-27	3
-step	39306163	time	606	temperature	773	cpu_time	227.136
-49	3
-3	3
-step	39805930	time	612.002	temperature	773	cpu_time	229.494
-20	1
-26	2
-step	40135146	time	618.004	temperature	773	cpu_time	231.014
-30	3
-step	40560196	time	624.002	temperature	773	cpu_time	232.692
-42	3
-step	41087373	time	630.002	temperature	773	cpu_time	234.774
-3	3
-step	41430767	time	636.002	temperature	773	cpu_time	235.919
-4	1
-step	41894948	time	642.007	temperature	773	cpu_time	237.525
-13	2
-step	42161690	time	648.001	temperature	773	cpu_time	238.537
-3	3
-19	2
-step	42294223	time	654	temperature	773	cpu_time	239.061
-4	3
-4	1
-28	3
-step	42572293	time	660.002	temperature	773	cpu_time	240.268
-4	3
-5	1
-11	1
-14	2
-step	42941757	time	666.003	temperature	773	cpu_time	241.886
-3	2
-46	3
-12	2
-step	43625567	time	672.002	temperature	773	cpu_time	244.545
-4	1
-49	2
-3	1
-step	43998796	time	678.001	temperature	773	cpu_time	246.132
-15	1
-3	1
-54	3
-step	44237321	time	684.006	temperature	773	cpu_time	247.116
-4	2
-62	3
-step	44421145	time	690	temperature	773	cpu_time	247.874
-4	2
-40	2
-31	2
-step	44608234	time	696.002	temperature	773	cpu_time	248.649
-4	3
-57	3
-step	45065118	time	702	temperature	773	cpu_time	250.268
-56	2
-step	45373499	time	708.008	temperature	773	cpu_time	251.373
-3	1
-66	3
-step	45734053	time	714	temperature	773	cpu_time	252.864
-48	2
-52	1
-step	46004657	time	720.001	temperature	773	cpu_time	253.986
-65	1
-step	46292677	time	726	temperature	773	cpu_time	255.133
-79	2
-step	46673466	time	732.001	temperature	773	cpu_time	256.531
-3	1
-102	3
-step	47377349	time	738	temperature	773	cpu_time	258.855
-step	47771273	time	744	temperature	773	cpu_time	260.119
-7	3
-3	3
-step	48404321	time	750.001	temperature	773	cpu_time	262.077
-4	1
-step	48932488	time	756.002	temperature	773	cpu_time	263.94
-2	2
-15	3
-step	49319628	time	762.003	temperature	773	cpu_time	265.401
-37	3
-step	49808218	time	768.003	temperature	773	cpu_time	267.096
-32	1
-step	50095246	time	774	temperature	773	cpu_time	268.237
-53	3
-step	50563441	time	780.002	temperature	773	cpu_time	269.973
-4	2
-6	2
-step	50989610	time	786.001	temperature	773	cpu_time	271.371
-16	3
-22	2
-step	51429798	time	792.001	temperature	773	cpu_time	272.865
-28	3
-step	51671877	time	798.001	temperature	773	cpu_time	273.803
-42	3
-step	51914370	time	804	temperature	773	cpu_time	274.68
-60	1
-step	52304151	time	810	temperature	773	cpu_time	276.222
-85	1
-5	1
-step	52758145	time	816.001	temperature	773	cpu_time	277.715
-8	2
-3	1
-3	1
-step	53295586	time	822.001	temperature	773	cpu_time	279.586
-7	1
-22	3
-3	1
-15	2
-step	53665837	time	828.001	temperature	773	cpu_time	280.805
-7	1
-21	3
-15	1
-step	53828038	time	834.001	temperature	773	cpu_time	281.348
-9	3
-27	1
-step	54587547	time	840.002	temperature	773	cpu_time	283.678
-35	1
-step	55374526	time	846	temperature	773	cpu_time	286.647
-3	1
-11	3
-step	55694694	time	852	temperature	773	cpu_time	287.83
-5	1
-3	1
-36	1
-step	56111437	time	858.002	temperature	773	cpu_time	289.391
-4	1
-7	1
-52	2
-step	56602785	time	864.003	temperature	773	cpu_time	291.094
-7	1
-15	2
-step	57179575	time	870.005	temperature	773	cpu_time	293.252
-23	1
-31	1
-step	57588891	time	876.001	temperature	773	cpu_time	294.762
-3	2
-100	3
-step	58095071	time	882.003	temperature	773	cpu_time	295.958
-step	58817903	time	888.002	temperature	773	cpu_time	297.713
-3	3
-7	2
-2	2
-step	59022478	time	894.004	temperature	773	cpu_time	298.278
-4	3
-2	3
-15	1
-step	59530535	time	900.01	temperature	773	cpu_time	299.816
-8	3
-9	3
-21	1
-step	60234158	time	906.003	temperature	773	cpu_time	301.888
-3	1
-44	2
-step	60515477	time	912.001	temperature	773	cpu_time	302.59
-9	2
-51	2
-step	61087834	time	918.001	temperature	773	cpu_time	303.965
-83	1
-2	3
-step	61763691	time	924.002	temperature	773	cpu_time	305.888
-3	2
-113	3
-step	62270083	time	930.001	temperature	773	cpu_time	307.23
-142	1
-8	2
-step	62707677	time	936	temperature	773	cpu_time	308.567
-169	1
-17	3
-step	63317081	time	942.001	temperature	773	cpu_time	310.732
-7	1
-4	2
-200	2
-step	63633184	time	948.005	temperature	773	cpu_time	311.575
-3	1
-182	1
-step	64396268	time	954.001	temperature	773	cpu_time	313.428
-21	1
-step	64945528	time	960.009	temperature	773	cpu_time	314.962
-4	2
-step	66356263	time	966.002	temperature	773	cpu_time	317.757
-6	1
-11	3
-step	66851955	time	972.001	temperature	773	cpu_time	319.384
-5	3
-step	67740555	time	978.002	temperature	773	cpu_time	321.948
-3	1
-17	3
-step	68118438	time	984.004	temperature	773	cpu_time	323.385
-3	2
-10	2
-step	68695295	time	990.001	temperature	773	cpu_time	325.53
-6	3
-step	69386616	time	996.002	temperature	773	cpu_time	327.721
-step	69818737	time	1002	temperature	773	cpu_time	328.979
-step	70156152	time	1008	temperature	773	cpu_time	330.103
-4	1
-15	1
-step	70523696	time	1014	temperature	773	cpu_time	331.133
-5	2
-30	2
-step	70772303	time	1020	temperature	773	cpu_time	332.052
-58	3
-4	2
-step	71423520	time	1026	temperature	773	cpu_time	334.424
-78	1
-2	2
-step	71888612	time	1032	temperature	773	cpu_time	335.823
-100	3
-step	72194621	time	1038	temperature	773	cpu_time	336.957
-7	2
-step	72748044	time	1044.01	temperature	773	cpu_time	338.692
-3	2
-29	2
-step	73129013	time	1050	temperature	773	cpu_time	340.075
-5	3
-62	2
-step	73376666	time	1056	temperature	773	cpu_time	341.161
-5	3
-106	3
-step	73786439	time	1062	temperature	773	cpu_time	342.842
-4	2
-5	1
-124	2
-step	74168439	time	1068	temperature	773	cpu_time	344.243
-6	2
-154	2
-step	74409418	time	1074	temperature	773	cpu_time	345.163
-2	3
-192	3
-step	74756118	time	1080	temperature	773	cpu_time	346.278
-step	75172116	time	1086	temperature	773	cpu_time	347.6
-4	2
-step	75893931	time	1092	temperature	773	cpu_time	349.628
-6	2
-step	76364610	time	1098.01	temperature	773	cpu_time	351.11
-19	2
-step	76625797	time	1104	temperature	773	cpu_time	351.964
-4	1
-37	2
-3	1
-step	76982596	time	1110	temperature	773	cpu_time	353.281
-10	1
-53	2
-14	2
-step	77342650	time	1116.01	temperature	773	cpu_time	354.646
-23	3
-34	2
-step	77606034	time	1122	temperature	773	cpu_time	355.577
-54	3
-34	2
-step	78019842	time	1128	temperature	773	cpu_time	357.003
-4	1
-step	78277725	time	1134	temperature	773	cpu_time	357.865
-3	3
-step	79130365	time	1140	temperature	773	cpu_time	360.399
-step	79525517	time	1146	temperature	773	cpu_time	361.639
-4	1
-4	1
-12	3
-step	80010955	time	1152	temperature	773	cpu_time	363.252
-6	2
-15	1
-step	80631045	time	1158.01	temperature	773	cpu_time	365.37
-33	3
-step	81059879	time	1164	temperature	773	cpu_time	366.736
-5	1
-5	1
-step	81446272	time	1170	temperature	773	cpu_time	367.894
-4	1
-19	1
-13	2
-step	81803570	time	1176	temperature	773	cpu_time	368.945
-4	2
-7	3
-25	2
-30	2
-step	82233141	time	1182	temperature	773	cpu_time	370.31
-6	3
-30	2
-78	1
-step	82681109	time	1188	temperature	773	cpu_time	371.794
-104	2
-step	83106795	time	1194	temperature	773	cpu_time	373.113
-205	1
-step	83290142	time	1200	temperature	773	cpu_time	373.597
-35	1
-4	1
-3	2
-197	3
-step	83640770	time	1206	temperature	773	cpu_time	374.997
-step	84269889	time	1212	temperature	773	cpu_time	376.054
-4	3
-step	84842651	time	1218	temperature	773	cpu_time	377.65
-26	3
-7	1
-step	85204406	time	1224	temperature	773	cpu_time	378.743
-21	3
-42	2
-step	85512399	time	1230	temperature	773	cpu_time	379.652
-4	1
-3	1
-83	1
-step	85905850	time	1236	temperature	773	cpu_time	380.894
-119	1
-8	2
-step	86132223	time	1242.01	temperature	773	cpu_time	381.54
-20	3
-134	2
-step	86528057	time	1248	temperature	773	cpu_time	382.732
-27	2
-34	2
-163	2
-step	86834845	time	1254	temperature	773	cpu_time	383.925
-51	2
-step	87188569	time	1260	temperature	773	cpu_time	385.198
-69	2
-step	87670658	time	1266	temperature	773	cpu_time	386.677
-106	3
-step	87934120	time	1272	temperature	773	cpu_time	387.615
-4	2
-131	1
-step	88424183	time	1278	temperature	773	cpu_time	389.083
-175	3
-4	1
-step	88800271	time	1284	temperature	773	cpu_time	390.134
-205	2
-step	89143648	time	1290.01	temperature	773	cpu_time	391.029
-step	90026384	time	1296	temperature	773	cpu_time	393.549
-10	3
-step	90301314	time	1302	temperature	773	cpu_time	394.434
-4	2
-8	1
-3	1
-step	90673944	time	1308	temperature	773	cpu_time	395.852
-5	2
-8	2
-16	1
-7	1
-step	91022326	time	1314	temperature	773	cpu_time	397.41
-16	3
-35	2
-5	3
-11	2
-step	91408257	time	1320	temperature	773	cpu_time	399.065
-67	2
-18	1
-step	91665472	time	1326	temperature	773	cpu_time	400.138
-9	2
-114	1
-step	91867434	time	1332.01	temperature	773	cpu_time	400.94
-12	1
-4	1
-9	3
-122	2
-step	92071491	time	1338	temperature	773	cpu_time	401.808
-12	1
-35	1
-13	2
-135	3
-step	92265510	time	1344	temperature	773	cpu_time	402.598
-149	2
-23	3
-48	2
-step	92765987	time	1350	temperature	773	cpu_time	403.931
-step	93233585	time	1356	temperature	773	cpu_time	405.008
-9	1
-step	93692127	time	1362	temperature	773	cpu_time	406.169
-4	1
-2	3
-step	94176518	time	1368	temperature	773	cpu_time	407.336
-14	2
-12	1
-step	94418362	time	1374	temperature	773	cpu_time	408.02
-53	1
-3	1
-step	94774546	time	1380	temperature	773	cpu_time	409.086
-16	3
-80	2
-step	95312482	time	1386	temperature	773	cpu_time	410.649
-4	1
-3	1
-step	95571308	time	1392	temperature	773	cpu_time	411.563
-7	3
-2	2
-26	2
-step	96079492	time	1398.01	temperature	773	cpu_time	413.157
-step	96444194	time	1404	temperature	773	cpu_time	414.126
-3	1
-step	96797896	time	1410	temperature	773	cpu_time	415.031
-24	1
-step	96971142	time	1416	temperature	773	cpu_time	415.531
-8	2
-40	1
-step	97086336	time	1422	temperature	773	cpu_time	415.906
-14	3
-64	3
-step	97391868	time	1428	temperature	773	cpu_time	416.735
-4	1
-step	97701625	time	1434	temperature	773	cpu_time	417.635
-6	2
-19	1
-step	97978406	time	1440	temperature	773	cpu_time	418.55
-3	1
-17	2
-13	3
-30	2
-step	98272756	time	1446	temperature	773	cpu_time	419.598
-5	1
-29	2
-63	3
-7	1
-step	98468532	time	1452.01	temperature	773	cpu_time	420.385
-10	3
-143	1
-step	98762098	time	1458	temperature	773	cpu_time	421.406
-4	1
-3	2
-173	3
-step	98997860	time	1464	temperature	773	cpu_time	422.319
-8	2
-7	3
-203	1
-step	99666408	time	1470	temperature	773	cpu_time	423.719
-5	2
-3	2
-step	100267717	time	1476	temperature	773	cpu_time	425.535
-6	2
-34	2
-step	100673709	time	1482	temperature	773	cpu_time	426.756
-6	2
-9	3
-84	3
-step	100840606	time	1488.01	temperature	773	cpu_time	427.288
-94	2
-21	3
-29	2
-step	101045244	time	1494	temperature	773	cpu_time	427.937
-23	2
-step	101483461	time	1500	temperature	773	cpu_time	429.119
-59	1
-step	101732398	time	1506	temperature	773	cpu_time	429.846
-101	3
-step	102146377	time	1512	temperature	773	cpu_time	431.03
-20	1
-6	1
-24	1
-step	102336760	time	1518	temperature	773	cpu_time	431.777
-34	1
-47	1
-14	3
-step	102516195	time	1524	temperature	773	cpu_time	432.591
-28	2
-84	3
-52	2
-step	102716547	time	1530	temperature	773	cpu_time	433.531
-4	1
-74	3
-70	2
-111	3
-step	102858902	time	1536	temperature	773	cpu_time	434.207
-2	2
-6	1
-128	2
-170	3
-step	103349950	time	1542	temperature	773	cpu_time	435.924
-4	1
-step	103743518	time	1548	temperature	773	cpu_time	436.874
-4	1
-28	1
-18	2
-3	1
-step	103886518	time	1554	temperature	773	cpu_time	437.37
-4	1
-4	1
-7	2
-53	2
-step	104192967	time	1560	temperature	773	cpu_time	438.474
-5	1
-129	1
-3	1
-5	3
-step	104330863	time	1566	temperature	773	cpu_time	439.001
-143	3
-12	3
-47	2
-step	104506661	time	1572	temperature	773	cpu_time	439.731
-121	1
-153	3
-5	2
-step	104972834	time	1578	temperature	773	cpu_time	441.234
-step	105296494	time	1584	temperature	773	cpu_time	442.028
-39	1
-step	105589214	time	1590	temperature	773	cpu_time	442.878
-67	1
-step	105918351	time	1596.01	temperature	773	cpu_time	443.797
-104	2
-step	106195855	time	1602	temperature	773	cpu_time	444.587
-4	3
-15	2
-109	3
-step	106629461	time	1608	temperature	773	cpu_time	445.95
-156	1
-7	3
-step	106935374	time	1614	temperature	773	cpu_time	446.911
-step	107423886	time	1620	temperature	773	cpu_time	448.119
-11	1
-5	2
-step	107671670	time	1626	temperature	773	cpu_time	448.897
-5	1
-21	1
-20	2
-step	107972829	time	1632	temperature	773	cpu_time	449.941
-4	1
-35	3
-7	1
-38	3
-17	3
-step	108156414	time	1638	temperature	773	cpu_time	450.817
-4	2
-4	1
-4	3
-48	3
-35	1
-67	3
-step	108309981	time	1644	temperature	773	cpu_time	451.554
-4	3
-4	1
-12	2
-58	2
-88	2
-57	2
-8	2
-step	108448672	time	1650	temperature	773	cpu_time	452.315
-4	1
-110	2
-18	2
-3	1
-169	3
-step	108536107	time	1656	temperature	773	cpu_time	452.738
-4	1
-26	2
-134	2
-5	1
-191	3
-step	109122326	time	1662	temperature	773	cpu_time	454.235
-3	2
-step	109401133	time	1668.01	temperature	773	cpu_time	454.915
-25	2
-3	1
-step	109711298	time	1674	temperature	773	cpu_time	455.806
-77	1
-step	109877389	time	1680.06	temperature	773	cpu_time	456.221
-95	3
-step	110133881	time	1686.01	temperature	773	cpu_time	456.889
-145	2
-step	110326399	time	1692	temperature	773	cpu_time	457.413
-13	1
-184	1
-step	110616260	time	1698.17	temperature	773	cpu_time	458.26
-step	111079014	time	1704	temperature	773	cpu_time	459.318
-12	1
-step	111384925	time	1710	temperature	773	cpu_time	460.06
-36	1
-step	111947414	time	1716	temperature	773	cpu_time	461.334
-21	1
-7	2
-step	112385723	time	1722	temperature	773	cpu_time	462.619
-72	2
-3	1
-step	112611816	time	1728	temperature	773	cpu_time	463.354
-11	3
-104	2
-step	112820204	time	1734	temperature	773	cpu_time	464.01
-5	1
-144	1
-step	112957617	time	1740	temperature	773	cpu_time	464.485
-8	1
-184	1
-18	1
-step	113533276	time	1746	temperature	773	cpu_time	466.045
-4	1
-step	113927954	time	1752	temperature	773	cpu_time	467.115
-4	1
-8	3
-4	1
-23	1
-step	114054015	time	1758	temperature	773	cpu_time	467.547
-4	1
-5	1
-21	3
-31	3
-step	114278132	time	1764.01	temperature	773	cpu_time	468.289
-68	2
-8	1
-17	2
-5	2
-5	1
-step	114474525	time	1770	temperature	773	cpu_time	469.123
-40	1
-125	3
-14	1
-11	1
-step	114631896	time	1776.01	temperature	773	cpu_time	469.833
-6	1
-4	1
-128	1
-72	2
-22	2
-step	114745779	time	1782	temperature	773	cpu_time	470.296
-155	1
-46	3
-step	115033993	time	1788	temperature	773	cpu_time	471.381
-5	1
-step	115221512	time	1794	temperature	773	cpu_time	472.041
-4	1
-9	1
-4	1
-29	2
-step	115615964	time	1800	temperature	773	cpu_time	473.761
-2	2
-8	3
-41	3
-106	2
-step	115801054	time	1806	temperature	773	cpu_time	474.534
-207	2
-12	2
-2	2
-step	116342521	time	1812	temperature	773	cpu_time	476.44
-38	2
-step	116558941	time	1818	temperature	773	cpu_time	477.134
-65	3
-32	2
-step	116982383	time	1824.01	temperature	773	cpu_time	478.525
-134	1
-step	117271314	time	1830.02	temperature	773	cpu_time	479.383
-176	1
-step	117714177	time	1836	temperature	773	cpu_time	480.662
-step	118184516	time	1842	temperature	773	cpu_time	481.839
-9	1
-12	1
-step	118443375	time	1848	temperature	773	cpu_time	482.613
-49	2
-33	2
-step	118728529	time	1854	temperature	773	cpu_time	483.542
-159	1
-step	118961609	time	1860.01	temperature	773	cpu_time	484.284
-step	119393955	time	1866	temperature	773	cpu_time	485.554
-7	1
-12	2
-21	2
-step	119495693	time	1872	temperature	773	cpu_time	485.915
-3	1
-14	2
-4	1
-21	1
-10	2
-31	2
-7	1
-step	119657866	time	1878	temperature	773	cpu_time	486.654
-8	1
-56	3
-25	2
-89	3
-step	119987698	time	1884	temperature	773	cpu_time	487.987
-3	1
-step	120262182	time	1890	temperature	773	cpu_time	488.87
-7	1
-74	2
-step	120353529	time	1896	temperature	773	cpu_time	489.208
-8	1
-113	2
-step	120440139	time	1902	temperature	773	cpu_time	489.575
-5	1
-15	1
-150	3
-step	120548731	time	1908.01	temperature	773	cpu_time	490.016
-5	1
-172	2
-33	2
-step	120683222	time	1914.04	temperature	773	cpu_time	490.619
-step	121027057	time	1920	temperature	773	cpu_time	491.518
-25	1
-step	121305086	time	1926	temperature	773	cpu_time	492.526
-3	1
-53	1
-23	2
-step	121461857	time	1932	temperature	773	cpu_time	493.054
-10	1
-38	2
-69	2
-step	121885084	time	1938.03	temperature	773	cpu_time	494.412
-10	1
-13	3
-step	122199849	time	1944	temperature	773	cpu_time	495.318
-82	1
-step	122460157	time	1950	temperature	773	cpu_time	496.203
-140	1
-step	122656319	time	1956	temperature	773	cpu_time	496.859
-174	1
-step	122919894	time	1962.08	temperature	773	cpu_time	497.782
-step	123510686	time	1968	temperature	773	cpu_time	499.246
-9	2
-step	123845768	time	1974	temperature	773	cpu_time	500.177
-12	1
-25	2
-24	2
-step	124002758	time	1980.01	temperature	773	cpu_time	500.704
-103	3
-step	124202630	time	1986.01	temperature	773	cpu_time	501.35
-152	3
-step	124342775	time	1992.01	temperature	773	cpu_time	501.778
-12	2
-189	3
-step	124647810	time	1998	temperature	773	cpu_time	502.78
-8	2
-44	3
-step	124977218	time	2004	temperature	773	cpu_time	503.926
-5	1
-90	3
-step	125239769	time	2010	temperature	773	cpu_time	504.852
-166	1
-step	125740476	time	2016.01	temperature	773	cpu_time	506.451
-step	126100323	time	2022	temperature	773	cpu_time	507.557
-5	1
-37	1
-6	3
-step	126362055	time	2028.01	temperature	773	cpu_time	508.517
-90	1
-42	3
-step	126625650	time	2034	temperature	773	cpu_time	509.489
-195	1
-step	127136681	time	2040	temperature	773	cpu_time	511.074
-12	1
-step	127287324	time	2046	temperature	773	cpu_time	511.541
-42	3
-step	127624689	time	2052	temperature	773	cpu_time	512.545
-92	2
-step	127846794	time	2058	temperature	773	cpu_time	513.335
-6	1
-169	3
-11	1
-step	127922535	time	2064	temperature	773	cpu_time	513.624
-17	2
-181	3
-6	1
-18	1
-step	128248594	time	2070.01	temperature	773	cpu_time	514.803
-4	1
-29	2
-21	2
-step	128415409	time	2076	temperature	773	cpu_time	515.441
-5	2
-42	3
-37	2
-20	1
-step	128559852	time	2082	temperature	773	cpu_time	515.939
-15	1
-3	2
-31	2
-101	2
-step	128670777	time	2088	temperature	773	cpu_time	516.357
-4	3
-57	2
-44	2
-step	129085518	time	2094	temperature	773	cpu_time	517.712
-step	129581447	time	2100.01	temperature	773	cpu_time	519.465
-4	1
-41	2
-step	129831878	time	2106	temperature	773	cpu_time	520.346
-5	1
-5	1
-111	3
-step	130034421	time	2112.01	temperature	773	cpu_time	521.079
-37	2
+step	67371928	time	1062.01	temperature	773	cpu_time	753.63
 36	2
-step	130075386	time	2118.01	temperature	773	cpu_time	521.236
-39	2
-55	3
-step	130180821	time	2124.02	temperature	773	cpu_time	521.582
-49	3
-73	1
-step	130247183	time	2130	temperature	773	cpu_time	521.854
-73	2
-10	1
-10	1
+step	67608215	time	1068.01	temperature	773	cpu_time	755.83
 50	3
-step	130347017	time	2136.01	temperature	773	cpu_time	522.26
-68	2
-15	3
-32	1
-step	130469575	time	2142	temperature	773	cpu_time	522.727
-139	1
-34	3
-step	130769922	time	2148	temperature	773	cpu_time	524.405
-9	2
-15	1
-step	130954273	time	2154.01	temperature	773	cpu_time	525.002
-35	3
-step	131069530	time	2160	temperature	773	cpu_time	525.415
-4	1
-74	2
-step	131198549	time	2166.01	temperature	773	cpu_time	525.839
-111	2
-step	131322004	time	2172.01	temperature	773	cpu_time	526.263
-149	2
-step	131453775	time	2178	temperature	773	cpu_time	526.697
-4	2
-9	3
-195	3
-step	132094214	time	2184.01	temperature	773	cpu_time	528.581
-step	132448711	time	2190	temperature	773	cpu_time	529.586
-5	2
-15	1
-step	132690550	time	2196	temperature	773	cpu_time	530.465
-32	3
-47	2
-step	132880823	time	2202	temperature	773	cpu_time	531.214
-133	1
-step	133050339	time	2208	temperature	773	cpu_time	531.844
-178	2
-6	2
-step	133189749	time	2214.01	temperature	773	cpu_time	532.368
-204	2
-36	3
-step	133528497	time	2220	temperature	773	cpu_time	533.534
-3	1
-59	2
-step	133624335	time	2226	temperature	773	cpu_time	533.9
-21	1
-89	2
-step	133719871	time	2232	temperature	773	cpu_time	534.281
-123	3
-3	2
-45	3
-step	133811159	time	2238	temperature	773	cpu_time	534.662
-3	3
-4	1
-201	1
-step	134750303	time	2244.03	temperature	773	cpu_time	538.111
-step	135217245	time	2250	temperature	773	cpu_time	539.647
-step	135586878	time	2256.01	temperature	773	cpu_time	540.765
-7	2
-8	1
-step	135837763	time	2262.01	temperature	773	cpu_time	541.679
-10	1
-62	3
-step	136044587	time	2268	temperature	773	cpu_time	542.511
-136	1
-4	2
-step	136198473	time	2274.01	temperature	773	cpu_time	543.111
-4	2
-5	2
-186	2
-step	136407725	time	2280	temperature	773	cpu_time	544.085
-4	1
-20	1
-18	2
-step	136622308	time	2286	temperature	773	cpu_time	544.92
-5	1
-46	3
-12	2
-step	136784273	time	2292	temperature	773	cpu_time	545.515
-13	1
-109	3
-step	136904135	time	2298	temperature	773	cpu_time	545.927
-5	1
-25	2
-139	2
-step	136956839	time	2304	temperature	773	cpu_time	546.119
-6	1
-141	3
-31	3
-step	137236154	time	2310.11	temperature	773	cpu_time	547.128
-15	1
-step	137356682	time	2316.01	temperature	773	cpu_time	547.615
-11	1
-3	1
-51	2
-step	137496709	time	2322	temperature	773	cpu_time	548.285
-5	1
-37	2
-104	2
-step	137719170	time	2328.01	temperature	773	cpu_time	549.534
-step	137879786	time	2334	temperature	773	cpu_time	550.082
-20	1
-34	3
-step	137955264	time	2340	temperature	773	cpu_time	550.382
-63	1
-37	2
-step	138381878	time	2346	temperature	773	cpu_time	551.835
-step	138866729	time	2352.01	temperature	773	cpu_time	553.403
-step	139255958	time	2358.01	temperature	773	cpu_time	554.77
-11	1
-10	3
-step	139398187	time	2364.01	temperature	773	cpu_time	555.263
-4	1
-15	3
-41	2
-step	139559066	time	2370	temperature	773	cpu_time	555.885
-15	3
-29	2
-step	139739255	time	2376	temperature	773	cpu_time	556.53
-5	2
-4	1
-100	2
-step	139828534	time	2382.01	temperature	773	cpu_time	556.892
-11	3
-138	2
-step	140109036	time	2388	temperature	773	cpu_time	557.931
-5	1
-step	140351594	time	2394.01	temperature	773	cpu_time	558.867
-8	2
-58	3
-step	140692988	time	2400.01	temperature	773	cpu_time	560.142
-step	141183658	time	2406	temperature	773	cpu_time	561.815
-3	2
-48	1
-17	1
-step	141249367	time	2412	temperature	773	cpu_time	562.114
-8	1
-68	2
-4	2
-28	2
-12	2
-step	141328771	time	2418	temperature	773	cpu_time	562.484
-4	2
-38	3
-14	2
-101	2
-29	1
-step	141447163	time	2424	temperature	773	cpu_time	563.04
-4	2
-26	3
-4	2
-3	3
-36	3
-184	1
-step	141971384	time	2430	temperature	773	cpu_time	565.069
-27	2
-step	142170671	time	2436	temperature	773	cpu_time	565.867
-89	1
-step	142376834	time	2442.01	temperature	773	cpu_time	566.715
-step	143023434	time	2448	temperature	773	cpu_time	568.876
-step	143519777	time	2454	temperature	773	cpu_time	570.532
-47	1
-step	143779906	time	2460	temperature	773	cpu_time	571.601
-7	1
-11	1
-142	1
-step	143869101	time	2466	temperature	773	cpu_time	571.98
-9	1
-48	2
-178	1
-step	144127035	time	2472	temperature	773	cpu_time	573.175
-4	1
-17	1
-step	144273233	time	2478.02	temperature	773	cpu_time	573.731
-5	1
-31	1
-12	2
-step	144481595	time	2484.01	temperature	773	cpu_time	574.569
-4	2
-121	3
-step	144661097	time	2490	temperature	773	cpu_time	575.401
-4	1
-24	3
-24	3
-202	2
-step	144826890	time	2496	temperature	773	cpu_time	576.153
-47	2
-step	144945203	time	2502.01	temperature	773	cpu_time	576.658
-81	3
-18	1
-step	145030974	time	2508	temperature	773	cpu_time	577.007
-163	2
-step	145266696	time	2514	temperature	773	cpu_time	578.07
-4	1
-7	2
-step	145439265	time	2520	temperature	773	cpu_time	578.758
-24	2
-27	2
-45	1
-step	145517549	time	2526.01	temperature	773	cpu_time	579.135
-46	3
-45	2
-63	2
-step	145576407	time	2532.01	temperature	773	cpu_time	579.42
-4	1
-4	2
-117	1
-91	3
-step	145694329	time	2538.71	temperature	773	cpu_time	580.618
-step	146074253	time	2544.01	temperature	773	cpu_time	581.883
-11	1
-step	146290536	time	2550	temperature	773	cpu_time	582.74
-5	1
-84	2
-step	146433512	time	2556	temperature	773	cpu_time	583.354
-171	3
-step	146778235	time	2562	temperature	773	cpu_time	584.831
-11	1
-7	1
-step	146931323	time	2568	temperature	773	cpu_time	585.473
-35	1
-53	3
-step	147013387	time	2574	temperature	773	cpu_time	585.865
-54	2
-95	1
-step	147098076	time	2580	temperature	773	cpu_time	586.29
-71	2
-22	2
-132	2
-step	147150583	time	2586	temperature	773	cpu_time	586.504
-159	3
-33	3
-82	3
-step	147446965	time	2592	temperature	773	cpu_time	587.955
-5	1
-step	147671693	time	2598	temperature	773	cpu_time	588.865
-24	2
-22	1
-step	147746759	time	2604	temperature	773	cpu_time	589.244
-3	2
-8	2
-55	3
-5	1
-40	3
-step	147803544	time	2611.03	temperature	773	cpu_time	589.529
-19	2
-127	2
-12	1
-step	147906314	time	2616.01	temperature	773	cpu_time	590.029
-26	3
-206	3
-step	148250613	time	2622.01	temperature	773	cpu_time	593.513
-68	1
-step	148435615	time	2628.02	temperature	773	cpu_time	594.405
-4	1
-175	3
-step	148899656	time	2634	temperature	773	cpu_time	597.922
-8	1
-step	149035624	time	2640.01	temperature	773	cpu_time	598.518
-3	2
-47	1
-13	2
-step	149124509	time	2646.02	temperature	773	cpu_time	598.953
-88	2
-41	1
-10	1
-step	149175069	time	2652.01	temperature	773	cpu_time	599.204
-46	3
-22	1
-110	3
-9	2
-step	149235289	time	2658	temperature	773	cpu_time	599.482
-61	1
-38	1
-142	3
-step	149323424	time	2664	temperature	773	cpu_time	600.01
-step	149666660	time	2670.01	temperature	773	cpu_time	601.471
-20	2
-step	150048050	time	2676	temperature	773	cpu_time	603.202
-43	2
-step	150162411	time	2682	temperature	773	cpu_time	603.739
-5	1
-95	2
-step	150222663	time	2688	temperature	773	cpu_time	604.061
-151	3
-10	2
-step	150308211	time	2694	temperature	773	cpu_time	604.474
-40	3
-177	1
-step	150482591	time	2700	temperature	773	cpu_time	605.567
-7	1
-step	150690527	time	2706.02	temperature	773	cpu_time	606.507
-51	1
-step	150831795	time	2712	temperature	773	cpu_time	607.14
-114	2
-step	150870317	time	2718.06	temperature	773	cpu_time	607.339
-4	1
-137	2
-step	151027166	time	2724.01	temperature	773	cpu_time	608.341
-step	151258749	time	2730.03	temperature	773	cpu_time	609.419
-3	1
-8	1
-60	2
-step	151434089	time	2736.01	temperature	773	cpu_time	610.236
-8	2
-4	1
-132	3
-step	151520192	time	2742	temperature	773	cpu_time	610.702
-3	1
-21	3
-17	1
-10	1
-192	2
-step	151677825	time	2748.03	temperature	773	cpu_time	612.038
-8	1
-step	151831077	time	2754.01	temperature	773	cpu_time	612.804
-46	3
-41	2
-step	151956323	time	2760	temperature	773	cpu_time	613.362
-177	2
-step	152154872	time	2766.01	temperature	773	cpu_time	614.312
-15	1
-step	152218760	time	2772	temperature	773	cpu_time	614.605
-33	3
-step	152368595	time	2778.01	temperature	773	cpu_time	615.347
-4	2
-3	1
-120	2
-step	152449890	time	2784.34	temperature	773	cpu_time	615.769
-2	2
-16	1
-140	3
-4	2
-step	152715664	time	2790.05	temperature	773	cpu_time	618.593
-step	152916748	time	2796	temperature	773	cpu_time	619.624
-5	1
-5	1
+step	67860189	time	1074	temperature	773	cpu_time	757.87
 66	3
-step	153006548	time	2802.01	temperature	773	cpu_time	620.113
-5	3
-144	3
-step	153145077	time	2808.02	temperature	773	cpu_time	620.893
-5	1
-23	1
-step	153194152	time	2814	temperature	773	cpu_time	621.144
-16	3
-27	1
-36	2
-step	153250764	time	2820	temperature	773	cpu_time	621.548
-55	2
-82	3
-10	1
-step	153287872	time	2826.41	temperature	773	cpu_time	621.805
-3	1
-72	2
-16	2
-102	3
-step	153335510	time	2832	temperature	773	cpu_time	622.077
-3	2
-113	2
-151	2
-step	153712193	time	2838	temperature	773	cpu_time	624.382
-56	3
-step	153904934	time	2844.02	temperature	773	cpu_time	625.467
-64	2
-step	154036607	time	2850	temperature	773	cpu_time	626.205
-136	1
-step	154161694	time	2856.01	temperature	773	cpu_time	626.915
-14	1
-5	1
-188	2
-step	154414837	time	2862	temperature	773	cpu_time	628.718
-10	1
-11	2
-17	1
-step	154479178	time	2868.02	temperature	773	cpu_time	629.108
-75	1
-24	2
-step	154582234	time	2874.01	temperature	773	cpu_time	629.706
-24	1
-56	2
-step	154656219	time	2880	temperature	773	cpu_time	630.107
-8	1
-39	2
-89	3
-step	154705503	time	2886	temperature	773	cpu_time	630.427
-107	2
-20	1
-67	3
-step	154752817	time	2892.38	temperature	773	cpu_time	631.008
-step	154901040	time	2898	temperature	773	cpu_time	631.703
-28	3
-13	1
-step	155012844	time	2904.06	temperature	773	cpu_time	632.337
-3	1
-99	1
-4	1
-step	155075808	time	2910.01	temperature	773	cpu_time	632.67
-4	2
-3	1
-150	2
-step	155139148	time	2916.01	temperature	773	cpu_time	633.013
-12	3
-207	2
-step	155344224	time	2922.02	temperature	773	cpu_time	634.827
-18	1
-step	155476950	time	2928.01	temperature	773	cpu_time	635.547
-3	1
-85	3
-step	155654062	time	2934.12	temperature	773	cpu_time	636.911
-step	155953461	time	2940	temperature	773	cpu_time	638.385
-23	1
-step	156056792	time	2946.01	temperature	773	cpu_time	638.922
-75	3
-step	156143232	time	2952	temperature	773	cpu_time	639.469
-14	1
-15	1
-119	1
-step	156198998	time	2958	temperature	773	cpu_time	639.756
-135	2
-33	2
-38	2
-step	156236864	time	2964	temperature	773	cpu_time	639.955
-45	2
-6	1
-55	3
-152	3
-7	1
-step	156531439	time	2970	temperature	773	cpu_time	642.463
-34	1
-4	1
-step	156633774	time	2976.01	temperature	773	cpu_time	643.106
-43	1
-81	2
-step	156677842	time	2982	temperature	773	cpu_time	643.374
-4	1
-69	1
-119	3
-step	156748703	time	2988	temperature	773	cpu_time	643.843
-163	2
-114	2
-step	156782897	time	2994.31	temperature	773	cpu_time	644.151
-step	157083165	time	3000.01	temperature	773	cpu_time	645.915
-5	1
-19	1
-step	157083165	time	3000	temperature	773	cpu_time	645.916
-5	1
-19	1
+step	68140647	time	1080	temperature	773	cpu_time	760.03
+step	68568024	time	1086	temperature	773	cpu_time	763.36
+step	69180584	time	1092	temperature	773	cpu_time	767.79
+step	69700392	time	1098	temperature	773	cpu_time	771.92
+step	70198781	time	1104.01	temperature	773	cpu_time	776.02
+step	70636884	time	1110.01	temperature	773	cpu_time	779.59
+step	70999137	time	1116	temperature	773	cpu_time	782.59
+step	71386684	time	1122	temperature	773	cpu_time	785.85
+step	71678667	time	1128.01	temperature	773	cpu_time	788.03
+step	72122396	time	1134.01	temperature	773	cpu_time	791.22
+step	72515410	time	1140	temperature	773	cpu_time	794.52
+step	72730595	time	1146.01	temperature	773	cpu_time	796.27
+step	73265269	time	1152.01	temperature	773	cpu_time	800.73
+step	73590493	time	1158	temperature	773	cpu_time	803.62
+step	74038391	time	1164	temperature	773	cpu_time	807.35
+step	74463864	time	1170	temperature	773	cpu_time	810.65
+step	74905230	time	1176.02	temperature	773	cpu_time	814.22
+step	75556358	time	1182.01	temperature	773	cpu_time	819.06
+step	76010405	time	1188	temperature	773	cpu_time	822.78
+step	76469907	time	1194	temperature	773	cpu_time	826.29
+step	76785287	time	1200	temperature	773	cpu_time	829.01
+step	77211661	time	1206	temperature	773	cpu_time	832.42
+step	77681192	time	1212	temperature	773	cpu_time	836.25
+step	78094340	time	1218	temperature	773	cpu_time	839.17
+step	78508231	time	1224	temperature	773	cpu_time	842.27
+step	78847375	time	1230	temperature	773	cpu_time	845.13
+step	79204516	time	1236	temperature	773	cpu_time	847.89
+step	79605308	time	1242	temperature	773	cpu_time	850.77
+step	80228381	time	1248	temperature	773	cpu_time	855.42
+step	80605137	time	1254	temperature	773	cpu_time	858.42
+step	81318966	time	1260	temperature	773	cpu_time	863.87
+step	81872564	time	1266	temperature	773	cpu_time	868.04
+step	82189027	time	1272	temperature	773	cpu_time	870.49
+step	82566933	time	1278	temperature	773	cpu_time	873.83
+step	82808918	time	1284	temperature	773	cpu_time	875.64
+step	83431539	time	1290	temperature	773	cpu_time	880.14
+step	83818218	time	1296.01	temperature	773	cpu_time	882.89
+step	84272236	time	1302.01	temperature	773	cpu_time	886.39
+step	84680757	time	1308.01	temperature	773	cpu_time	889.6
+step	85196996	time	1314.02	temperature	773	cpu_time	893.48
+step	85780651	time	1320	temperature	773	cpu_time	897.78
+step	86325559	time	1326	temperature	773	cpu_time	902
+step	86878997	time	1332	temperature	773	cpu_time	906.24
+step	87596119	time	1338	temperature	773	cpu_time	911.37
+step	87819367	time	1344	temperature	773	cpu_time	912.99
+step	88431717	time	1350	temperature	773	cpu_time	917.65
+step	88814629	time	1356	temperature	773	cpu_time	920.5
+step	89125450	time	1362	temperature	773	cpu_time	922.89
+step	89743012	time	1368.01	temperature	773	cpu_time	927.48
+step	90272329	time	1374	temperature	773	cpu_time	931.5
+step	90823725	time	1380.12	temperature	773	cpu_time	935.62
+step	91335026	time	1386	temperature	773	cpu_time	939.47
+step	91894322	time	1392	temperature	773	cpu_time	943.6
+step	92159572	time	1398	temperature	773	cpu_time	945.6
+step	92811517	time	1404	temperature	773	cpu_time	950.33
+step	93224090	time	1410.04	temperature	773	cpu_time	953.67
+step	93832962	time	1416	temperature	773	cpu_time	958.35
+step	94254061	time	1422	temperature	773	cpu_time	961.29
+step	94819262	time	1428.01	temperature	773	cpu_time	965.59
+step	95303983	time	1434	temperature	773	cpu_time	969.39
+step	95686240	time	1440.01	temperature	773	cpu_time	972.43
+step	96194561	time	1446.01	temperature	773	cpu_time	976.13
+step	96884845	time	1452.01	temperature	773	cpu_time	981.32
+step	97391788	time	1458.02	temperature	773	cpu_time	985.23
+step	97935647	time	1464.01	temperature	773	cpu_time	989.2
+step	98306766	time	1470.01	temperature	773	cpu_time	991.88
+step	98736349	time	1476	temperature	773	cpu_time	994.99
+step	99114398	time	1482	temperature	773	cpu_time	997.81
+step	99441625	time	1488	temperature	773	cpu_time	1000.26
+step	99784790	time	1494	temperature	773	cpu_time	1002.79
+step	100308236	time	1500	temperature	773	cpu_time	1006.78
+step	100874520	time	1506	temperature	773	cpu_time	1010.78
+step	101308707	time	1512	temperature	773	cpu_time	1013.98
+step	101572933	time	1518	temperature	773	cpu_time	1015.83
+step	102086787	time	1524	temperature	773	cpu_time	1019.78
+step	102571566	time	1530	temperature	773	cpu_time	1023.44
+step	102938266	time	1536.01	temperature	773	cpu_time	1026.11
+step	103338994	time	1542	temperature	773	cpu_time	1028.98
+step	103849383	time	1548	temperature	773	cpu_time	1032.9
+step	104095998	time	1554	temperature	773	cpu_time	1034.8
+step	104535127	time	1560.01	temperature	773	cpu_time	1038.04
+step	104978084	time	1566	temperature	773	cpu_time	1041.09
+step	105418033	time	1572.01	temperature	773	cpu_time	1044.35
+step	105879998	time	1578	temperature	773	cpu_time	1047.65
+step	106179033	time	1584.01	temperature	773	cpu_time	1049.93
+step	106691341	time	1590	temperature	773	cpu_time	1053.73
+step	107233661	time	1596.01	temperature	773	cpu_time	1057.99
+step	107950955	time	1602.02	temperature	773	cpu_time	1063.05
+step	108364916	time	1608	temperature	773	cpu_time	1065.97
+step	108964230	time	1614	temperature	773	cpu_time	1070.35
+step	109568700	time	1620.02	temperature	773	cpu_time	1074.84
+step	109884975	time	1626	temperature	773	cpu_time	1077.25
+step	110450436	time	1632	temperature	773	cpu_time	1081.62
+step	110843269	time	1638	temperature	773	cpu_time	1084.58
+step	111251481	time	1644.01	temperature	773	cpu_time	1087.37
+step	111829335	time	1650.01	temperature	773	cpu_time	1091.59
+step	112475207	time	1656	temperature	773	cpu_time	1096.2
+step	112946456	time	1662.01	temperature	773	cpu_time	1099.65
+step	113451980	time	1668.01	temperature	773	cpu_time	1103.29
+step	113749587	time	1674.01	temperature	773	cpu_time	1105.54
+step	114315640	time	1680	temperature	773	cpu_time	1109.76
+step	114750583	time	1686	temperature	773	cpu_time	1112.88
+step	115106407	time	1692.01	temperature	773	cpu_time	1115.51
+step	115490582	time	1698	temperature	773	cpu_time	1118.31
+step	115965891	time	1704.01	temperature	773	cpu_time	1121.72
+step	116316296	time	1710	temperature	773	cpu_time	1124.23
+step	116722377	time	1716.01	temperature	773	cpu_time	1127.19
+step	116984490	time	1722	temperature	773	cpu_time	1129.05
+step	117261528	time	1728	temperature	773	cpu_time	1131.05
+step	117984070	time	1734	temperature	773	cpu_time	1136.38
+step	118429126	time	1740	temperature	773	cpu_time	1139.69
+step	118831180	time	1746.01	temperature	773	cpu_time	1142.66
+step	119245476	time	1752.01	temperature	773	cpu_time	1145.64
+step	119702875	time	1758.02	temperature	773	cpu_time	1148.82
+step	120012798	time	1764.02	temperature	773	cpu_time	1151.24
+step	120497298	time	1770.01	temperature	773	cpu_time	1154.78
+step	121232286	time	1776.01	temperature	773	cpu_time	1160
+step	121588890	time	1782	temperature	773	cpu_time	1162.68
+step	121995698	time	1788.01	temperature	773	cpu_time	1165.64
+step	122350074	time	1794	temperature	773	cpu_time	1168.33
+step	122805744	time	1800.01	temperature	773	cpu_time	1171.43
+step	123172751	time	1806.01	temperature	773	cpu_time	1173.99
+step	123560950	time	1812.01	temperature	773	cpu_time	1176.66
+step	124092193	time	1818	temperature	773	cpu_time	1180.67
+step	124619922	time	1824.01	temperature	773	cpu_time	1184.48
+step	125112903	time	1830	temperature	773	cpu_time	1187.95
+step	125459782	time	1836.01	temperature	773	cpu_time	1190.35
+step	126045224	time	1842	temperature	773	cpu_time	1194.5
+step	126387489	time	1848.02	temperature	773	cpu_time	1196.92
+step	126747522	time	1854.01	temperature	773	cpu_time	1199.46
+step	127231586	time	1860	temperature	773	cpu_time	1202.77
+step	127572192	time	1866.02	temperature	773	cpu_time	1205.29
+step	128144248	time	1872.01	temperature	773	cpu_time	1209.57
+step	128598891	time	1878	temperature	773	cpu_time	1212.8
+step	129075132	time	1884	temperature	773	cpu_time	1216.43
+step	129580014	time	1890	temperature	773	cpu_time	1219.91
+step	130112895	time	1896.01	temperature	773	cpu_time	1223.5
+step	130398188	time	1902.01	temperature	773	cpu_time	1225.49
+step	130667776	time	1908.01	temperature	773	cpu_time	1227.37
+step	131390047	time	1914.02	temperature	773	cpu_time	1232.55
+step	131988765	time	1920	temperature	773	cpu_time	1237
+step	132268703	time	1926	temperature	773	cpu_time	1238.98
+step	132762541	time	1932	temperature	773	cpu_time	1242.36
+step	133234197	time	1938.03	temperature	773	cpu_time	1245.53
+step	133717395	time	1944	temperature	773	cpu_time	1248.93
+step	134232581	time	1950	temperature	773	cpu_time	1252.67
+step	134785675	time	1956	temperature	773	cpu_time	1256.54
+step	135324529	time	1962	temperature	773	cpu_time	1260.36
+step	135665518	time	1968	temperature	773	cpu_time	1262.79
+step	136210809	time	1974	temperature	773	cpu_time	1266.73
+step	136602019	time	1980.01	temperature	773	cpu_time	1269.45
+step	137034439	time	1986.01	temperature	773	cpu_time	1272.45
+step	137606540	time	1992	temperature	773	cpu_time	1276.32
+step	138039191	time	1998	temperature	773	cpu_time	1279.42
+step	138494777	time	2004	temperature	773	cpu_time	1282.43
+step	139137137	time	2010	temperature	773	cpu_time	1287.13
+step	139720506	time	2016.01	temperature	773	cpu_time	1291.32
+step	140160613	time	2022	temperature	773	cpu_time	1294.33
+step	140560607	time	2028.04	temperature	773	cpu_time	1297.26
+step	140843787	time	2034	temperature	773	cpu_time	1299.26
+step	141333974	time	2040.04	temperature	773	cpu_time	1302.71
+step	141808362	time	2046	temperature	773	cpu_time	1306.03
+step	142403014	time	2052	temperature	773	cpu_time	1310.02
+step	143005438	time	2058.01	temperature	773	cpu_time	1314.13
+step	143603883	time	2064.02	temperature	773	cpu_time	1318.33
+step	144109090	time	2070.02	temperature	773	cpu_time	1321.8
+step	144432227	time	2076.01	temperature	773	cpu_time	1324.16
+step	144785977	time	2082	temperature	773	cpu_time	1326.7
+step	145137096	time	2088.01	temperature	773	cpu_time	1329.32
+step	145775370	time	2094.01	temperature	773	cpu_time	1334.03
+step	146107279	time	2100.28	temperature	773	cpu_time	1336.54
+step	146526394	time	2106.01	temperature	773	cpu_time	1339.57
+step	147003755	time	2112.01	temperature	773	cpu_time	1343.33
+step	147725795	time	2118	temperature	773	cpu_time	1348.21
+step	148385424	time	2124.1	temperature	773	cpu_time	1352.85
+step	148786531	time	2130	temperature	773	cpu_time	1355.51
+step	149424140	time	2136	temperature	773	cpu_time	1360.34
+step	149901551	time	2142	temperature	773	cpu_time	1363.7
+step	150332913	time	2148	temperature	773	cpu_time	1367.02
+step	150914730	time	2154	temperature	773	cpu_time	1371.28
+step	151563442	time	2160.01	temperature	773	cpu_time	1375.59
+step	152117214	time	2166.01	temperature	773	cpu_time	1379.52
+step	152418503	time	2172.01	temperature	773	cpu_time	1381.78
+step	152879952	time	2178	temperature	773	cpu_time	1385.09
+step	153322692	time	2184.1	temperature	773	cpu_time	1388.44
+step	153819838	time	2190.02	temperature	773	cpu_time	1391.93
+step	154446567	time	2196	temperature	773	cpu_time	1396.4
+step	154983349	time	2202.01	temperature	773	cpu_time	1400.19
+step	155578109	time	2208.01	temperature	773	cpu_time	1404.56
+step	156046169	time	2214	temperature	773	cpu_time	1408.06
+step	156426475	time	2220.14	temperature	773	cpu_time	1411.01
+step	156960461	time	2226	temperature	773	cpu_time	1414.7
+step	157371966	time	2232	temperature	773	cpu_time	1417.56
+step	157852017	time	2238	temperature	773	cpu_time	1420.91
+step	158603599	time	2244.02	temperature	773	cpu_time	1426.51
+step	159116139	time	2250	temperature	773	cpu_time	1430.04
+step	159610950	time	2256.01	temperature	773	cpu_time	1433.75
+step	160026161	time	2262	temperature	773	cpu_time	1437.26
+step	160411775	time	2268	temperature	773	cpu_time	1440.15
+step	160747776	time	2274	temperature	773	cpu_time	1442.57
+step	161215120	time	2280	temperature	773	cpu_time	1446.1
+step	161575371	time	2286	temperature	773	cpu_time	1448.77
+step	162098677	time	2292.01	temperature	773	cpu_time	1452.79
+step	162591921	time	2298.01	temperature	773	cpu_time	1456.61
+step	162977536	time	2304	temperature	773	cpu_time	1459.46
+step	163288323	time	2310	temperature	773	cpu_time	1461.78
+step	163755677	time	2316.01	temperature	773	cpu_time	1465.19
+step	164299789	time	2322.04	temperature	773	cpu_time	1469.22
+step	164748323	time	2328.02	temperature	773	cpu_time	1472.36
+step	165219396	time	2334	temperature	773	cpu_time	1475.71
+step	165834706	time	2340	temperature	773	cpu_time	1480.02
+step	166155164	time	2346.03	temperature	773	cpu_time	1482.4
+step	166613677	time	2352	temperature	773	cpu_time	1485.5
+step	167139035	time	2358	temperature	773	cpu_time	1489.41
+step	167443817	time	2364	temperature	773	cpu_time	1491.73
+step	167908950	time	2370.02	temperature	773	cpu_time	1495.06
+step	168308974	time	2376	temperature	773	cpu_time	1498.19
+step	168828079	time	2382	temperature	773	cpu_time	1502.07
+step	169228364	time	2388.19	temperature	773	cpu_time	1504.84
+step	169650670	time	2394	temperature	773	cpu_time	1507.94
+step	170087142	time	2400.26	temperature	773	cpu_time	1511.05
+step	170503421	time	2406.04	temperature	773	cpu_time	1513.99
+step	171093671	time	2412.02	temperature	773	cpu_time	1518
+step	171475482	time	2418.01	temperature	773	cpu_time	1520.69
+step	171955203	time	2424.02	temperature	773	cpu_time	1524.19
+step	172453451	time	2430.01	temperature	773	cpu_time	1527.51
+step	173006865	time	2436	temperature	773	cpu_time	1531.21
+step	173565292	time	2442.01	temperature	773	cpu_time	1535.14
+step	174071627	time	2448	temperature	773	cpu_time	1538.69
+step	174472371	time	2454.03	temperature	773	cpu_time	1541.49
+step	174863084	time	2460.02	temperature	773	cpu_time	1544.32
+step	175259871	time	2466.02	temperature	773	cpu_time	1546.92
+step	175943283	time	2472	temperature	773	cpu_time	1551.71
+step	176472002	time	2478	temperature	773	cpu_time	1555.55
+step	176986311	time	2484	temperature	773	cpu_time	1559.12
+step	177647469	time	2490	temperature	773	cpu_time	1563.75
+step	178208935	time	2496	temperature	773	cpu_time	1567.63
+step	178469601	time	2502.07	temperature	773	cpu_time	1569.41
+step	178890488	time	2508	temperature	773	cpu_time	1572.38
+step	179206817	time	2514.18	temperature	773	cpu_time	1574.5
+step	179576560	time	2520.1	temperature	773	cpu_time	1577.07
+step	179916666	time	2526	temperature	773	cpu_time	1579.6
+step	180239061	time	2532	temperature	773	cpu_time	1581.96
+step	180758437	time	2538	temperature	773	cpu_time	1586.11
+step	181227848	time	2544	temperature	773	cpu_time	1589.45
+step	181790742	time	2550.04	temperature	773	cpu_time	1593.4
+step	182286238	time	2556	temperature	773	cpu_time	1597.12
+step	182824363	time	2562.01	temperature	773	cpu_time	1600.98
+step	183178797	time	2568	temperature	773	cpu_time	1603.46
+step	183583743	time	2574.02	temperature	773	cpu_time	1606.19
+step	184109504	time	2580.01	temperature	773	cpu_time	1609.85
+step	184454510	time	2586.02	temperature	773	cpu_time	1612.15
+step	184938511	time	2592	temperature	773	cpu_time	1615.74
+step	185545086	time	2598.03	temperature	773	cpu_time	1619.89
+step	186131164	time	2604	temperature	773	cpu_time	1624.1
+step	186820910	time	2610	temperature	773	cpu_time	1629.07
+step	187406800	time	2616.02	temperature	773	cpu_time	1633.12
+step	188055857	time	2622.1	temperature	773	cpu_time	1637.86
+step	188596927	time	2628	temperature	773	cpu_time	1641.75
+step	189220423	time	2634.24	temperature	773	cpu_time	1646.25
+step	189723089	time	2640.01	temperature	773	cpu_time	1649.58
+step	190026049	time	2646	temperature	773	cpu_time	1651.93
+step	190473947	time	2652.02	temperature	773	cpu_time	1655.26
+step	190846617	time	2658.01	temperature	773	cpu_time	1658.06
+step	191264642	time	2664.05	temperature	773	cpu_time	1661.11
+step	191730005	time	2670.01	temperature	773	cpu_time	1664.53
+step	192122448	time	2676	temperature	773	cpu_time	1667.35
+step	192723965	time	2682	temperature	773	cpu_time	1671.76
+step	193320937	time	2688.2	temperature	773	cpu_time	1675.99
+step	193936697	time	2694.01	temperature	773	cpu_time	1680.37
+step	194369587	time	2700.06	temperature	773	cpu_time	1683.72
+step	194713952	time	2706.01	temperature	773	cpu_time	1686.12
+step	195125605	time	2712	temperature	773	cpu_time	1688.94
+step	195604755	time	2718.04	temperature	773	cpu_time	1692.26
+step	196159250	time	2724.03	temperature	773	cpu_time	1696.21
+step	196661158	time	2730.01	temperature	773	cpu_time	1699.65
+step	197112904	time	2736.01	temperature	773	cpu_time	1703.16
+step	197606955	time	2742.03	temperature	773	cpu_time	1706.62
+step	197970737	time	2748	temperature	773	cpu_time	1709.09
+step	198531948	time	2754.09	temperature	773	cpu_time	1713.15
+step	199455889	time	2760	temperature	773	cpu_time	1719.6
+step	199800772	time	2766.09	temperature	773	cpu_time	1722.2
+step	200375201	time	2772.06	temperature	773	cpu_time	1726.31
+step	201152482	time	2778	temperature	773	cpu_time	1731.96
+step	201447226	time	2784	temperature	773	cpu_time	1734.08
+step	202017420	time	2790.11	temperature	773	cpu_time	1738.3
+step	202375656	time	2796	temperature	773	cpu_time	1741.16
+step	202864521	time	2802.01	temperature	773	cpu_time	1744.7
+step	203271524	time	2808	temperature	773	cpu_time	1747.78
+step	203684834	time	2814	temperature	773	cpu_time	1750.79
+step	204152688	time	2820.01	temperature	773	cpu_time	1754.33
+step	204547616	time	2826	temperature	773	cpu_time	1757.64
+step	205107622	time	2832.03	temperature	773	cpu_time	1761.42
+step	205806964	time	2838.09	temperature	773	cpu_time	1766.27
+step	206333266	time	2844	temperature	773	cpu_time	1770.45
+step	206907202	time	2850	temperature	773	cpu_time	1774.67
+step	207248764	time	2856.02	temperature	773	cpu_time	1777.33
+step	207557500	time	2862.08	temperature	773	cpu_time	1779.52
+step	208302489	time	2868	temperature	773	cpu_time	1784.74
+step	208759001	time	2874	temperature	773	cpu_time	1788.21
+step	209278730	time	2880.08	temperature	773	cpu_time	1791.98
+step	209716454	time	2886.02	temperature	773	cpu_time	1795.08
+step	210436376	time	2892	temperature	773	cpu_time	1800.61
+step	210813763	time	2898.05	temperature	773	cpu_time	1803.52
+step	211047098	time	2904	temperature	773	cpu_time	1805.15
+step	211533979	time	2910	temperature	773	cpu_time	1808.49
+step	211948120	time	2916	temperature	773	cpu_time	1811.39
+step	212502964	time	2922.09	temperature	773	cpu_time	1815.42
+step	213053118	time	2928.01	temperature	773	cpu_time	1819.26
+step	213423251	time	2934.02	temperature	773	cpu_time	1822.23
+step	214106487	time	2940.01	temperature	773	cpu_time	1827.18
+step	214621774	time	2946.01	temperature	773	cpu_time	1830.71
+step	215012685	time	2952.04	temperature	773	cpu_time	1833.45
+step	215362616	time	2958.01	temperature	773	cpu_time	1835.85
+step	215847885	time	2964.01	temperature	773	cpu_time	1839.49
+step	216279340	time	2970	temperature	773	cpu_time	1842.79
+step	216751630	time	2976.01	temperature	773	cpu_time	1846.06
+step	217283898	time	2982	temperature	773	cpu_time	1850.16
+step	217763529	time	2988.03	temperature	773	cpu_time	1853.59
+step	218351660	time	2994	temperature	773	cpu_time	1857.71
+step	218888206	time	3000	temperature	773	cpu_time	1861.64
+step	218888206	time	3000	temperature	773	cpu_time	1861.64
