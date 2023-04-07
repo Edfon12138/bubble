@@ -51,20 +51,10 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 		}
 		//如果超出了数据库的范围，我们提供默认值
 		else {
-			/*
-			// Rn = 3^0.5/4+(3*n/8/PI)^(1/3)-(3/8/PI)^(1/3)+0.01
-			radius = pow((3 * size1 / 8.0 / PI), 1 / 3.0) - 0.0493;
-			//size越大，发射指前因子越大，正比于n^2/3
-			emit_F1 = 6e12 * pow(size1, 0.666667);
-			*/
-			//这一套方案，增大了空位的半径，V1-V1在4NN可以结合，并且大团簇也有可能解离
-			radius = 1.3739 + pow(size1 * 0.11936, 1 / 3.0) - pow(0.11936, 1 / 3.0);
-			if (size1 % 16 == 1) {
-				emit_E1 = 1.18 + 1.66;
-			}
-			else {
-				emit_E1 = 2.63 + 1.66;
-			}
+		
+			radius = 0.43301 + pow(size1 * 0.11936, 1 / 3.0) - pow(0.11936, 1 / 3.0);
+			
+			emit_E1 = 1.68 + 3.333 - (6.862 - 3.333) * ((pow(size1, 2/3.0) - pow(size1 - 1, 2/3.0)) / (pow(2, 2/ 3.0) - 1));
 			//std::cout << id << "号object用默认参数生成，它的类型是" << type << std::endl;
 		}
 		break;
@@ -75,10 +65,10 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 		}
 		//如果超出了数据库的范围，我们提供默认值
 		else {
-			mig_F = 1419300000000 * pow(size1, -0.365);
-			mig_E = 0.04;
+			mig_F = 6e12 * pow(size1, -0.5);
+			mig_E = 0.013;
 			
-			radius = 1.15 * (1.3739 + pow(size1 * 0.11936, 1 / 3.0) - pow(0.11936, 1 / 3.0));
+			radius = 1.15 * (0.43301 + pow(size1 * 0.11936, 1 / 3.0) - pow(0.11936, 1 / 3.0));
 			/*
 			// Rn =1/2+0.2+(B4/3^0.5/PI)^0.5-(1/3^0.5/PI)^0.5
 			radius = pow(size1 / pow(3, 0.5) / PI, 0.5) + 0.2713;
@@ -94,10 +84,10 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 		//如果超出了数据库的范围，我们提供默认值
 		else {
 			//和纯空位的半径相同
-			radius = 3 / 3.17 + pow(size1 * 0.11936, 1 / 3.0) - pow(0.11936, 1 / 3.0);
+			radius = 3 / 3.17 + pow(size1 * 0.02387, 1 / 3.0) - pow(0.02387, 1 / 3.0);
 			//std::cout << id << "号object用默认参数生成，它的类型是" << type << std::endl;
 			emit_F2 = 6e10; 
-			emit_E2 = 1.99;
+			emit_E2 = 4.78;
 			TM_E = -4.0;
 		}
 		break;
@@ -109,7 +99,7 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 		//如果超出了数据库的范围，我们提供默认值
 		else {
 			//和纯空位的半径相同
-			radius =1.3739 + pow(size1 * 0.11936, 1 / 3.0) - pow(0.11936, 1 / 3.0);
+			radius =0.43301 + pow(size1 * 0.11936, 1 / 3.0) - pow(0.11936, 1 / 3.0);
 			//std::cout << id << "号object用默认参数生成，它的类型是" << type << std::endl;
 			/*
 			if (double(size2) / size1 <= 3.0) {
@@ -158,7 +148,7 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 				}
 			}
 			//发生trap mutation事件
-			if (size2 > 5 * pow(size1, 0.86))
+			if (size2 > 5 * pow(size1, 0.86) && size2/size1>4 )
 			{
 				TM_E = -4.0;
 			}
@@ -175,14 +165,14 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 		else {
 			//R正比于N^1/2
 			//R正比于N^1/3
-			radius = 1.15 * (1.3739 + pow(size1 * 0.11936, 1 / 3.0) - pow(0.11936, 1 / 3.0));
+			radius = 1.15 * (0.43301 + pow(size1 * 0.11936, 1 / 3.0) - pow(0.11936, 1 / 3.0));
 			//radius = pow(0.119366 * size1, 1 / 3.0) + 0.38;
 			//std::cout << id << "号object用默认参数生成，它的类型是" << type << std::endl;
 			//能量
 			if (size1 > 35)
 			{
 				mig_E = 0.013;
-				mig_F = 1419300000000 * pow(size1, -0.365);
+				mig_F = 6e12 * pow(size1, -0.5);
 			}
 			//mig_E = 10;
 			emit_E1 = 10;
