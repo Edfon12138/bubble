@@ -148,7 +148,7 @@ Object::Object(int _type, double _x, double _y, double _z, int _size1, int _size
 				}
 			}
 			//发生trap mutation事件
-			if (size2 > 5 * pow(size1, 0.86) && size2/size1>4 )
+			if ( size2/(float)size1>4 )
 			{
 				TM_E = -4.0;
 			}

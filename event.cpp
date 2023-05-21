@@ -511,7 +511,8 @@ void carry_out_TM(std::vector<Object*>& _obj_ptr_list, Object& _obj, int _obj_po
 	}
 	else if (_obj.type == 4)
 	{
-		while (oL_size2 > 5 * pow(oL_size1, 0.86) && oL_size2/ oL_size1>2 )
+		//oL_size2 > 5 * pow(oL_size1, 0.86) && 
+		while (oL_size2 / (float)oL_size1 > 3)
 		{
 			oL_size1++;
 			tm_sia++;
@@ -532,7 +533,7 @@ void carry_out_TM(std::vector<Object*>& _obj_ptr_list, Object& _obj, int _obj_po
 	}
 	else if (_obj.type == 4)
 	{
-		while (oL_size2 > 5 * pow(oL_size1, 0.86))
+		while (oL_size2 / (float)oL_size1 > 3)
 		{
 			oL_size1++;
 			tm_sia++;

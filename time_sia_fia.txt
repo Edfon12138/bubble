@@ -1,6 +1,1 @@
-step	0	time	0	temperature	850	cpu_time	0.619
-step	1020984	time	6.00001	temperature	850	cpu_time	10.268
-6	2
-step	1961969	time	12	temperature	850	cpu_time	67.016
-3	1
-step	2716423	time	18	temperature	850	cpu_time	81.272
+step	0	time	0	temperature	773	cpu_time	3.709
