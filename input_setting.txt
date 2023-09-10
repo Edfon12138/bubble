@@ -8,9 +8,9 @@
 x_min 0
 y_min 0
 z_min 0
-x_max 31
-y_max 32
-z_max 33
+x_max 63
+y_max 64
+z_max 65
 
 # 1 means absorb; 2means periodic; 3 XY周期，Z开放
 boundary_condition 2
@@ -23,7 +23,7 @@ temperature 773
 
 #1~time	2~loop
 stop_criteria 1
-max_time 3000
+max_time 400000000
 max_step 1
 
 # how many data points would you like to output
@@ -38,7 +38,7 @@ output_emit_reaction -1
 output_out_bound 1
 output_GB_absorption 1
 output_disloaction_absorption 1
-output_trap_mutation -1
+output_trap_mutation 1
 
 
 #高于该能量的事件不会发生（设太低可能报错）
@@ -46,7 +46,7 @@ max_energy 4.09
 
 #time interval between two cascades, (unit second)
 # -1 means no cascade insertion
-cascade_interval 0.07636852394916911
+cascade_interval 4239.587573
 #randomly translate the inserted cascade (0~false, 1~true)
 rand_translate_cascade 1
 #randomly rotate the inserted cascade (0~false, 1~true)
@@ -60,7 +60,7 @@ fia_site 1
 #如果event_list为空，则每一步时间累加default_dt，步数累加1
 default_dt 1
 #-1表示，程序自动产生随机数
-seed  1681785013
+seed -1
 
 #网格的划分密度，单位为a0，每隔10a0划分一块网格
 box_grid 20
